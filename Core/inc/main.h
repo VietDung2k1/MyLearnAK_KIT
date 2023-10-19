@@ -5,6 +5,7 @@
 
 #include "debug.h"
 #include "led_life.h"
+#include "eeprom.h"
 
 #ifdef __cplusplus
       extern "C"

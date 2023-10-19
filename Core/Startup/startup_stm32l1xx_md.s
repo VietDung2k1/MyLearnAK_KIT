@@ -98,6 +98,8 @@ LoopFillZerobss:
   bcc FillZerobss
 /* Call the clock system intitialization function.*/
   bl  SystemInit
+/* Call static constructors */
+  bl __libc_init_array
 /* Call my system intitialization function.*/
   bl  Led_Life_Init
   bl  Debug_Init

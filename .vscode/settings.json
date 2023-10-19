@@ -62,6 +62,10 @@
     "xprintf.h": "c",
     "stm32l1xx_conf.h": "c",
     "main.h": "c",
-    "stm32l1xx.h": "c"
-  }
+    "stm32l1xx.h": "c",
+    "system_stm32l1xx.h": "c",
+    "stdint.h": "c",
+    "stm32l1xx_flash.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }

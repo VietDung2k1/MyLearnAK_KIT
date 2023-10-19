@@ -38,6 +38,9 @@ ECHO = @echo
 CFLAGS += -specs=nosys.specs
 CFLAGS += -std=gnu99
 
+# C Libraries
+CFLAGS += -lc -lm -lnosys
+
 # Flags - C Language Options
 CFLAGS += -ffreestanding
 
@@ -83,7 +86,7 @@ include Drivers/Drivers.mk
 include Core/Core.mk
 
 # Startup file
-DEVICE_STARTUP = Core/Startup/startup_stm32l1xx_md.s
+DEVICE_STARTUP = Core/Startup/startup_stm32l1xx_md.c
 
 # A simply expanded variable is used here
 # to perform the find command only once.
