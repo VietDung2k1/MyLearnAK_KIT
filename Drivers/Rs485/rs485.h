@@ -1,6 +1,7 @@
 #ifndef __RS485__
 #define __RS485__
 #include "stm32l1xx_conf.h"
+#include <stdint.h>
 #if defined (__cplusplus)
 extern "C" {
 #endif
@@ -20,8 +21,10 @@ extern "C" {
 #define USART2_RX_SOURCE				GPIO_PinSource2
 #define USART2_RX_AF					GPIO_AF_USART2
 
+#define IRQ_PRIO_UART2_IO				3
+
 #define USART2_CLK						RCC_APB1Periph_USART2
-void Rs485_Init();
+void Rs485_Init(uint32_t);
 
 
 #ifdef __cplusplus

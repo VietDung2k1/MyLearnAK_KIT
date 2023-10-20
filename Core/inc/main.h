@@ -6,7 +6,8 @@
 #include "debug.h"
 #include "led_life.h"
 #include "eeprom.h"
-
+#include "modbus_slave.h"
+#include "rs485.h"
 #ifdef __cplusplus
       extern "C"
 #endif

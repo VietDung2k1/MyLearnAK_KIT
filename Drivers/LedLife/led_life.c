@@ -1,7 +1,7 @@
 
 #include "led_life.h"
-
 void Led_Life_Init() {
+	
 	GPIO_InitTypeDef        GPIO_InitStructure;
 
 	RCC_AHBPeriphClockCmd(LED_LIFE_IO_CLOCK, ENABLE);

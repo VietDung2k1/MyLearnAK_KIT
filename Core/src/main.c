@@ -1,20 +1,32 @@
 
 #include "main.h"
 
-int main(){
-	
-	uint8_t DataWrite = 0x15;
-	uint8_t DataRead;
+uint8_t RxData[256];
+uint8_t TxData[256];
+uint8_t countRx;
 
-	// if (eeprom_write(0, &DataWrite, 1) == EEPROM_DRIVER_OK){
-	// 	xprintf("Write Data : 0x08008 0000\n");
-	// }
+extern uint16_t SLAVE_ID;
+extern uint32_t BAUND_RATE;
+
+int main(){	
+
+	if (modbus_slave_init() == MODBUS_SLAVE_OK){
+		xprintf("---modbus_slave_init--- PASS\n");
+	} else {
+		xprintf("---modbus_slave_init--- FALSE\n");
+	}
+	
+	Rs485_Init(BAUND_RATE);
+	xprintf("---Setup Rs485 Id : %d ", SLAVE_ID);
+	xprintf("---Baudrate : %d\n", BAUND_RATE);
+
+	
 
     while(1){
-		if (eeprom_read(0, &DataRead, 1)   == EEPROM_DRIVER_OK){
-			xprintf("Read Data : 0x08008 0000 == %x \n", DataRead);
-		}
 		Led_Life_Toggle();
       	Delay_Ms(1000);
     }
 }
+
+
+

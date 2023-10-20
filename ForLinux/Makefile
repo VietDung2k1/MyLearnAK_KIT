@@ -23,7 +23,8 @@ FLASH  = 0x08000000
 # Configure tools from the GCC ARM Embedded toolchain
 ############################################################################
 # Gnu toolchain path
-PREFIX  = arm-none-eabi-
+GNUTOOL = $(HOME)/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/
+PREFIX  = $(GNUTOOL)arm-none-eabi-
 CC      = $(PREFIX)gcc
 OBJCOPY = $(PREFIX)objcopy
 SIZE    = $(PREFIX)size
@@ -123,13 +124,22 @@ $(BUILD_DIR):
 	$(ECHO) "	##############################################################"
 	$(ECHO) ""
 	$(ECHO) ""
-	$(Q)mkdir $@		
+	$(Q)$(Q)mkdir $@		
 
 # Make clean
 clean:
-	rmdir /s /q $(BUILD_DIR)
+	rm -r $(BUILD_DIR)
 
-.PHONY: all clean
+# Make flash
+flash: all
+ifeq ($(FLASHING_TOOL), st-flash)
+	st-flash write $(BUILD_DIR)/$(BIN_FILE_NAME) $(FLASH)
+else
+	$(error $(FLASHING_TOOL) not recognized)
+endif
+
+.PHONY: all clean flash
+
 
 
 ############################################################################

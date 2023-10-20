@@ -5,13 +5,17 @@ CFLAGS += \
 -IDrivers/STM32L1xx_StdPeriph_Driver/inc \
 -IDrivers/Debug \
 -IDrivers/LedLife \
--IDrivers/Eeprom
+-IDrivers/Eeprom \
+-IDrivers/Rs485
 
 #CMSIS
 SRC += Drivers/CMSIS/Device/ST/STM32L1xx/Source/Templates/system_stm32l1xx.c
 
 #EEPROM
 SRC += Drivers/Eeprom/eeprom.c
+
+#Rs485
+SRC += Drivers/Rs485/rs485.c
 
 #Debug
 SRC += Drivers/Debug/xprintf.c \

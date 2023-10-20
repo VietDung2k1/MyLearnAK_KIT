@@ -68,6 +68,13 @@ void Debug_Init()
 	USART_Cmd(USARTx, ENABLE);
 
 	xfunc_output = (void(*)(int))Redirect_Printf;
+
+
+	xprintf("-----------------------\n");
+	xprintf("----!!MODBUS SLAVE!!---\n");
+	xprintf("----------!VietDung!---\n");
+	xprintf("-----------------------\n");
+	xprintf("\n");
 }
 
 void Redirect_Printf(uint8_t c) {

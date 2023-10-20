@@ -1,6 +1,6 @@
 #include "rs485.h"
 
-void Rs485_Init(){
+void Rs485_Init(uint32_t BaundRate){
 
     USART_InitTypeDef USART_InitStructure;
 	GPIO_InitTypeDef GPIO_InitStructure;
@@ -30,7 +30,7 @@ void Rs485_Init(){
 	GPIO_Init(USART2_RX_GPIO_PORT, &GPIO_InitStructure);
 
 	/* USART2 configuration */
-	USART_InitStructure.USART_BaudRate = 115200;
+	USART_InitStructure.USART_BaudRate = BaundRate;
 	USART_InitStructure.USART_WordLength = USART_WordLength_8b;
 	USART_InitStructure.USART_StopBits = USART_StopBits_1;
 	USART_InitStructure.USART_Parity = USART_Parity_No;
