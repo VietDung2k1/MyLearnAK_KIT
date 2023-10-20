@@ -5,6 +5,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 /* Uncomment/Comment the line below to enable/disable peripheral header file inclusion */
+
 #include "stm32l1xx_adc.h"
 #include "stm32l1xx_aes.h"
 #include "stm32l1xx_comp.h"

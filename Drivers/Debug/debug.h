@@ -6,22 +6,22 @@
 #include "stm32l1xx_it.h"
 #include "xprintf.h"
 /* USART Communication boards Interface */
-#define USARTx                           USART1
-#define USARTx_CLK                       RCC_APB2Periph_USART1
-#define USARTx_IRQn                      USART1_IRQn
-#define USARTx_IRQHandler                USART1_IRQHandler
 
-#define USARTx_TX_PIN                    GPIO_Pin_9
-#define USARTx_TX_GPIO_PORT              GPIOA
-#define USARTx_TX_GPIO_CLK               RCC_AHBPeriph_GPIOA
-#define USARTx_TX_SOURCE                 GPIO_PinSource9
-#define USARTx_TX_AF                     GPIO_AF_USART1
+#define USART1_CLK                       RCC_APB2Periph_USART1
+#define USART1_IRQn                      USART1_IRQn
+#define USART1_IRQHandler                USART1_IRQHandler
 
-#define USARTx_RX_PIN                    GPIO_Pin_10
-#define USARTx_RX_GPIO_PORT              GPIOA
-#define USARTx_RX_GPIO_CLK               RCC_AHBPeriph_GPIOA
-#define USARTx_RX_SOURCE                 GPIO_PinSource10
-#define USARTx_RX_AF                     GPIO_AF_USART1
+#define USART1_TX_PIN                    GPIO_Pin_9
+#define USART1_TX_GPIO_PORT              GPIOA
+#define USART1_TX_GPIO_CLK               RCC_AHBPeriph_GPIOA
+#define USART1_TX_SOURCE                 GPIO_PinSource9
+#define USART1_TX_AF                     GPIO_AF_USART1
+
+#define USART1_RX_PIN                    GPIO_Pin_10
+#define USART1_RX_GPIO_PORT              GPIOA
+#define USART1_RX_GPIO_CLK               RCC_AHBPeriph_GPIOA
+#define USART1_RX_SOURCE                 GPIO_PinSource10
+#define USART1_RX_AF                     GPIO_AF_USART1
 #define SYS_CONSOLE_BAUDRATE             115200
 #define IRQ_PRIO_UART0_CONSOLE	         2
 

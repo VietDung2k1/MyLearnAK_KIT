@@ -34,38 +34,38 @@ void Debug_Init()
 	// ring_buffer_char_init(&ring_buffer_char_shell_send, ring_buffer_char_shell_send_buffer, RING_BUFFER_CHAR_SHELL_SEND_BUFFER_SIZE);
 
 	/* Enable GPIO clock */
-	RCC_AHBPeriphClockCmd(USARTx_TX_GPIO_CLK | USARTx_RX_GPIO_CLK, ENABLE);
+	RCC_AHBPeriphClockCmd(USART1_TX_GPIO_CLK | USART1_RX_GPIO_CLK, ENABLE);
 
 	/* Enable USART clock */
-	RCC_APB2PeriphClockCmd(USARTx_CLK, ENABLE);
+	RCC_APB2PeriphClockCmd(USART1_CLK, ENABLE);
 
-	/* Connect PXx to USARTx_Tx */
-	GPIO_PinAFConfig(USARTx_TX_GPIO_PORT, USARTx_TX_SOURCE, USARTx_TX_AF);
+	/* Connect PXx to USART1_Tx */
+	GPIO_PinAFConfig(USART1_TX_GPIO_PORT, USART1_TX_SOURCE, USART1_TX_AF);
 
-	/* Connect PXx to USARTx_Rx */
-	GPIO_PinAFConfig(USARTx_RX_GPIO_PORT, USARTx_RX_SOURCE, USARTx_RX_AF);
+	/* Connect PXx to USART1_Rx */
+	GPIO_PinAFConfig(USART1_RX_GPIO_PORT, USART1_RX_SOURCE, USART1_RX_AF);
 
 	/* Configure USART Tx and Rx as alternate function push-pull */
 	GPIO_InitStructure.GPIO_Mode = GPIO_Mode_AF;
 	GPIO_InitStructure.GPIO_Speed = GPIO_Speed_2MHz;
 	GPIO_InitStructure.GPIO_OType = GPIO_OType_PP;
 	GPIO_InitStructure.GPIO_PuPd = GPIO_PuPd_UP;
-	GPIO_InitStructure.GPIO_Pin = USARTx_TX_PIN;
-	GPIO_Init(USARTx_TX_GPIO_PORT, &GPIO_InitStructure);
+	GPIO_InitStructure.GPIO_Pin = USART1_TX_PIN;
+	GPIO_Init(USART1_TX_GPIO_PORT, &GPIO_InitStructure);
 
-	GPIO_InitStructure.GPIO_Pin = USARTx_RX_PIN;
-	GPIO_Init(USARTx_RX_GPIO_PORT, &GPIO_InitStructure);
+	GPIO_InitStructure.GPIO_Pin = USART1_RX_PIN;
+	GPIO_Init(USART1_RX_GPIO_PORT, &GPIO_InitStructure);
 
-	/* USARTx configuration */
+	/* USART1 configuration */
 	USART_InitStructure.USART_BaudRate = SYS_CONSOLE_BAUDRATE;
 	USART_InitStructure.USART_WordLength = USART_WordLength_8b;
 	USART_InitStructure.USART_StopBits = USART_StopBits_1;
 	USART_InitStructure.USART_Parity = USART_Parity_No;
 	USART_InitStructure.USART_HardwareFlowControl = USART_HardwareFlowControl_None;
 	USART_InitStructure.USART_Mode = USART_Mode_Rx | USART_Mode_Tx;
-	USART_Init(USARTx, &USART_InitStructure);
+	USART_Init(USART1, &USART_InitStructure);
 
-	USART_Cmd(USARTx, ENABLE);
+	USART_Cmd(USART1, ENABLE);
 
 	xfunc_output = (void(*)(int))Redirect_Printf;
 
@@ -79,13 +79,13 @@ void Debug_Init()
 
 void Redirect_Printf(uint8_t c) {
 	/* wait last transmission completed */
-	while (USART_GetFlagStatus(USARTx, USART_FLAG_TXE) == RESET);
+	while (USART_GetFlagStatus(USART1, USART_FLAG_TXE) == RESET);
 
 	/* put transnission data */
-	USART_SendData(USARTx, (uint8_t)c);
+	USART_SendData(USART1, (uint8_t)c);
 
 	/* wait transmission completed */
-	while (USART_GetFlagStatus(USARTx, USART_FLAG_TC) == RESET);
+	while (USART_GetFlagStatus(USART1, USART_FLAG_TC) == RESET);
 }
 
 void Delay_Ms(__IO uint32_t nTime)

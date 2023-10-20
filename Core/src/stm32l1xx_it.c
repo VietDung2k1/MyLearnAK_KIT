@@ -3,7 +3,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stm32l1xx_it.h"
 #include "main.h"
-
+#include <stdint.h>
 /******************************************************************************/
 /*            Cortex-M3 Processor Exceptions Handlers                         */
 /******************************************************************************/
@@ -104,6 +104,16 @@ void PendSV_Handler(void)
 void SysTick_Handler(void)
 {
   TimingDelay_Decrement();
+}
+
+/**
+  * @brief  This function handles SysTick Handler.
+  * @param  None
+  * @retval None
+  */
+void USART2_IRQHandler(void)
+{
+  Rs485_ReadData();
 }
 
 /******************************************************************************/

@@ -71,7 +71,7 @@ void SVC_Handler(void)                     __attribute__ ((weak));
 void DebugMon_Handler(void)                __attribute__ ((weak));
 void PendSV_Handler(void)                  __attribute__ ((weak));
 void SysTick_Handler(void)                 __attribute__ ((weak));
-
+void USART2_IRQHandler(void)               __attribute__ ((weak));
 
 __attribute__((section(".isr_vector")))
 void (* const isr_vector[])() = {
@@ -129,7 +129,7 @@ void (* const isr_vector[])() = {
     Default_Handler,       //SPI1 global interrupt
     Default_Handler,       //SPI2 global interrupt
     Default_Handler,       //USART1 global interrupt
-    Default_Handler,       //USART2 global interrupt
+    USART2_IRQHandler,     //USART2 global interrupt
     Default_Handler,       //USART3 global interrupt
     Default_Handler,       //EXTI Line[15:10] interrupts
     Default_Handler,       //RTC Alarms (A and B) through EXTI line interrupt
