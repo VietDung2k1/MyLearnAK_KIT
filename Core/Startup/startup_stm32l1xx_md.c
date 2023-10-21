@@ -15,10 +15,9 @@ extern uint32_t _ebss;
 
 extern uint32_t _estack;
 
-extern void __libc_init_array();
-extern int  main();
-extern void Led_Life_Init();
-extern void Debug_Init();
+// extern void __libc_init_array();
+void Led_Life_Init();
+void Debug_Init();
 /**
  *          This is the code that gets called when the processor first
  *          starts execution following a reset event. Only the absolutely
@@ -43,7 +42,7 @@ void Reset_Handler(){
     SystemInit();
 
     /* Call static constructors */
-    __libc_init_array();
+    // __libc_init_array();
     
     /* Call my system intitialization function.*/
     Led_Life_Init();

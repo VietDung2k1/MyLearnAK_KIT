@@ -62,8 +62,7 @@ uint8_t update_sensor_Registers(uint16_t Temp, uint16_t Hum){
     }
 }
 
-uint8_t update_system_Registers(uint16_t id, uint16_t baudrate){
-    
+uint8_t update_Id_Registers(uint16_t id){
     if(id != Holding_Registers_Database[30]){
         if (id >= 1 && id <= 254){
             uint8_t id_eep_buf = (uint8_t)id;
@@ -79,7 +78,8 @@ uint8_t update_system_Registers(uint16_t id, uint16_t baudrate){
             modbusException(ILLEGAL_DATA_VALUE);
         }
     }
-
+}
+uint8_t update_Baudrate_Registers(uint16_t baudrate){
     if(baudrate != Holding_Registers_Database[31]){
         if (baudrate >= 0 && baudrate <= 2){
             uint8_t baudrate_eep_buf = (uint8_t)baudrate;
@@ -194,6 +194,42 @@ uint8_t readInputRegs (void)
 	}
 
 	sendData(TxData, indx);  // send data... CRC will be calculated in the function itself
+	return 1;   // success
+}
+
+
+uint8_t writeSingerRegs (void)
+{
+	uint16_t Addr = ((RxData[countRx+2]<<8)|RxData[countRx+3]);  //Register Address
+
+	uint16_t Value = ((RxData[countRx+4]<<8)|RxData[countRx+5]);   //Value write address 
+
+	// Prepare TxData buffer
+
+	//| SLAVE_ID | FUNCTION_CODE | REGISTER   | DATA      | CRC     |
+	//| 1 BYTE   |  1 BYTE       |  1 BYTE    | 1 BYTES   | 2 BYTES |
+
+	TxData[0] = SLAVE_ID;  // slave ID
+	TxData[1] = RxData[countRx+1];  // function code
+	TxData[2] = RxData[countRx+2];  // Register high
+    TxData[3] = RxData[countRx+3];  // Register low
+    TxData[4] = RxData[countRx+4];  // Data high
+    TxData[5] = RxData[countRx+5];  // Data low
+    int indx = 6;
+	sendData(TxData, indx);  // send data... CRC will be calculated in the function itself
+
+    //Check write id and baudrate
+    switch (Addr)
+    {
+    case 0x1E:
+        update_Id_Registers(Value);
+        break;
+    case 0x1F:
+        update_Baudrate_Registers(Value);
+        break;
+    default:
+        break;
+    }
 	return 1;   // success
 }
 

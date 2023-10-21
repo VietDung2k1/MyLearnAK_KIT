@@ -44,8 +44,9 @@ static const uint16_t Input_Registers_Database[50]={
 
 uint8_t modbus_slave_init();
 uint8_t update_sensor_Registers(uint16_t, uint16_t);
-uint8_t update_Registers(uint16_t, uint16_t);
+uint8_t update_Id_Registers(uint16_t);
+uint8_t update_Baudrate_Registers(uint16_t);
 uint8_t readHoldingRegs (void);
 uint8_t readInputRegs (void);
-
+uint8_t writeSingerRegs (void);
 #endif /* INC_MODBUS_SLAVE_H_ */

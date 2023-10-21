@@ -80,7 +80,7 @@ CFLAGS += -DDEBUG
 CFLAGS += -Wa,--defsym,CALL_ARM_SYSTEM_INIT=1
 
 # Flags - Linker Options
-CFLAGS += -TStm32l151_md.map
+CFLAGS += -TStm32l151_md.ld
 
 # Flags - Machine-dependant options
 CFLAGS += -mthumb
@@ -138,7 +138,7 @@ $(OBJ_FILE_PATH): $(DEVICE_STARTUP)
 
 $(BUILD_DIR):
 	$(ECHO) "	##############################################################"
-	$(ECHO) "	##             Bare Metal Toolchain : VietDung2k1           ##"
+	$(ECHO) "	##                Modbus Sensor : VietDung2k1               ##"
 	$(ECHO) "	##############################################################"
 	$(ECHO) ""
 	$(ECHO) ""

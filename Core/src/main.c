@@ -15,8 +15,6 @@ int main(){
 	Rs485_Init(BAUND_RATE);
 	xprintf("---Setup Rs485 Id : %d ", SLAVE_ID);
 	xprintf("---Baudrate : %d\n", BAUND_RATE);
-	// uint8_t TxData[5] = {0x11, 0x22, 0x33, 0x44, 0x55};
-	// Rs485_SendData(USART2, TxData, 5);
 	
     while(1){
 		rx_index = 0;

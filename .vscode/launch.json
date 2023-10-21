@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GocHocTap/Project/MyLearnAK_KIT/Drivers/Rs485",
-      "program": "d:/GocHocTap/Project/MyLearnAK_KIT/Drivers/Rs485/build/Debug/outDebug",
+      "cwd": "d:/GocHocTap/Project/MyLearnAK_KIT/Core/src",
+      "program": "d:/GocHocTap/Project/MyLearnAK_KIT/Core/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

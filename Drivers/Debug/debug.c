@@ -71,8 +71,12 @@ void Debug_Init()
 
 
 	xprintf("-----------------------\n");
-	xprintf("----!!MODBUS SLAVE!!---\n");
-	xprintf("----------!VietDung!---\n");
+	xprintf("---!!MODBUS SENSOR!!---\n");
+	xprintf("-----------------------\n");
+	xprintf("--Temp       : 0x00 : Read\n");
+	xprintf("--Hum        : 0x01 : Read\n");
+	xprintf("--Id         : 0x1E : R/W\n");
+	xprintf("--Baudrate   : 0x1F : R/W\n");
 	xprintf("-----------------------\n");
 	xprintf("\n");
 }

@@ -109,6 +109,9 @@ void Rs485_ReadData(){
 					case 0x04:
 						readInputRegs();
 						break;
+					case 0x06:
+						writeSingerRegs();
+						break;
 					default:
 						break;
 					}
