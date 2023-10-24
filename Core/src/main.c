@@ -23,6 +23,7 @@ int main(){
 		update_sensor_Registers(random_temp, random_hum);
 		Led_Life_Toggle();
 		Delay_Ms(1000);
+		//Hahaha
     }
 }
 

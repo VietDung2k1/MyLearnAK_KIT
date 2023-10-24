@@ -145,26 +145,26 @@ $(BUILD_DIR):
 	$(Q)mkdir $@		
 
 ifeq ($(SYSTEM), WINDOW)
-# Make clean for window
+# Make clean on window
 clean:
 	rmdir /s /q $(BUILD_DIR)
+flash: all # Flash on window
+	openocd -f openocd.cfg -c "program $(ELF_FILE_PATH) verify reset exit"
 endif
 
 ifeq ($(SYSTEM),LINUX)
-# Make clean for linux
+# Make clean on linux
 clean:
 	rm -r $(BUILD_DIR)
-# Flash only available on linux
-.PHONY: flash
-flash: all
+flash: all # Flash on linux
 ifeq ($(FLASHING_TOOL), st-flash)
-	st-flash write $(BUILD_DIR)/$(BIN_FILE_NAME) $(FLASH)
+	st-flash write $(BIN_FILE_PATH) $(FLASH)
 else
 	$(error $(FLASHING_TOOL) not recognized)
 endif
 endif
 
-.PHONY: all clean
+.PHONY: all clean flash
 
 
 ############################################################################
