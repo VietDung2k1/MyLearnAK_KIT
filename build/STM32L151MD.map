@@ -1,0 +1,2990 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (_exit)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+                              build/xprintf.o (__aeabi_dmul)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              build/xprintf.o (__aeabi_dsub)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              build/xprintf.o (__aeabi_ddiv)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+                              build/xprintf.o (__aeabi_dcmpeq)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+                              build/xprintf.o (__aeabi_dcmpun)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                              build/xprintf.o (__aeabi_d2iz)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                              build/xprintf.o (__aeabi_uldivmod)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+                              build/eeprom.o (memcpy)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+                              build/main.o (rand)
+/home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+                              build/xprintf.o (strlen)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000004000 xrw
+MEMORY_B1        0x0000000060000000 0x0000000000000000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+LOAD build/system_stm32l1xx.o
+LOAD build/eeprom.o
+LOAD build/rs485.o
+LOAD build/xprintf.o
+LOAD build/debug.o
+LOAD build/led_life.o
+LOAD build/misc.o
+LOAD build/stm32l1xx_adc.o
+LOAD build/stm32l1xx_aes_util.o
+LOAD build/stm32l1xx_aes.o
+LOAD build/stm32l1xx_comp.o
+LOAD build/stm32l1xx_crc.o
+LOAD build/stm32l1xx_dac.o
+LOAD build/stm32l1xx_dbgmcu.o
+LOAD build/stm32l1xx_dma.o
+LOAD build/stm32l1xx_exti.o
+LOAD build/stm32l1xx_flash_ramfunc.o
+LOAD build/stm32l1xx_flash.o
+LOAD build/stm32l1xx_fsmc.o
+LOAD build/stm32l1xx_gpio.o
+LOAD build/stm32l1xx_i2c.o
+LOAD build/stm32l1xx_iwdg.o
+LOAD build/stm32l1xx_lcd.o
+LOAD build/stm32l1xx_opamp.o
+LOAD build/stm32l1xx_pwr.o
+LOAD build/stm32l1xx_rcc.o
+LOAD build/stm32l1xx_rtc.o
+LOAD build/stm32l1xx_sdio.o
+LOAD build/stm32l1xx_spi.o
+LOAD build/stm32l1xx_syscfg.o
+LOAD build/stm32l1xx_tim.o
+LOAD build/stm32l1xx_usart.o
+LOAD build/stm32l1xx_wwdg.o
+LOAD build/stm32l1xx_it.o
+LOAD build/main.o
+LOAD build/modbus_slave.o
+LOAD build/modbus_crc.o
+LOAD build/startup_STM32L151MD.o
+START GROUP
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+START GROUP
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020004000                _estack = 0x20004000
+                0x0000000000000000                _Min_Heap_Size = 0x0
+                0x0000000000000080                _Min_Stack_Size = 0x80
+
+.isr_vector     0x0000000008000000       0xf4
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000       0xf4 build/startup_STM32L151MD.o
+                0x0000000008000000                isr_vector
+                0x00000000080000f4                . = ALIGN (0x4)
+
+.text           0x00000000080000f8     0xd980
+                0x00000000080000f8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080000f8        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .text          0x00000000080000f8       0x40 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000008000138       0x7c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+                0x0000000008000138                _stack_init
+                0x0000000008000140                _mainCRTStartup
+                0x0000000008000140                _start
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .text          0x00000000080001b4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .text          0x00000000080001b4        0x0 build/system_stm32l1xx.o
+ .text          0x00000000080001b4        0x0 build/eeprom.o
+ .text          0x00000000080001b4        0x0 build/rs485.o
+ .text          0x00000000080001b4        0x0 build/xprintf.o
+ .text          0x00000000080001b4        0x0 build/debug.o
+ .text          0x00000000080001b4        0x0 build/led_life.o
+ .text          0x00000000080001b4        0x0 build/misc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_adc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_aes_util.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_aes.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_comp.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_crc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_dac.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_dbgmcu.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_dma.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_exti.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_flash_ramfunc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_flash.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_fsmc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_gpio.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_i2c.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_iwdg.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_lcd.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_opamp.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_pwr.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_rcc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_rtc.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_sdio.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_spi.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_syscfg.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_tim.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_usart.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_wwdg.o
+ .text          0x00000000080001b4        0x0 build/stm32l1xx_it.o
+ .text          0x00000000080001b4        0x0 build/main.o
+ .text          0x00000000080001b4        0x0 build/modbus_slave.o
+ .text          0x00000000080001b4        0x0 build/modbus_crc.o
+ .text          0x00000000080001b4        0x0 build/startup_STM32L151MD.o
+ .text          0x00000000080001b4      0x254 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .text          0x0000000008000408      0x378 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x0000000008000408                __aeabi_drsub
+                0x0000000008000410                __aeabi_dsub
+                0x0000000008000410                __subdf3
+                0x0000000008000414                __adddf3
+                0x0000000008000414                __aeabi_dadd
+                0x000000000800068c                __aeabi_ui2d
+                0x000000000800068c                __floatunsidf
+                0x00000000080006ac                __floatsidf
+                0x00000000080006ac                __aeabi_i2d
+                0x00000000080006d0                __extendsfdf2
+                0x00000000080006d0                __aeabi_f2d
+                0x0000000008000714                __aeabi_ul2d
+                0x0000000008000714                __floatundidf
+                0x0000000008000724                __floatdidf
+                0x0000000008000724                __aeabi_l2d
+ .text          0x0000000008000780      0x424 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x0000000008000780                __aeabi_dmul
+                0x0000000008000780                __muldf3
+                0x00000000080009d4                __aeabi_ddiv
+                0x00000000080009d4                __divdf3
+ .text          0x0000000008000ba4      0x110 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+                0x0000000008000ba4                __gtdf2
+                0x0000000008000ba4                __gedf2
+                0x0000000008000bac                __ltdf2
+                0x0000000008000bac                __ledf2
+                0x0000000008000bb4                __cmpdf2
+                0x0000000008000bb4                __eqdf2
+                0x0000000008000bb4                __nedf2
+                0x0000000008000c30                __aeabi_cdrcmple
+                0x0000000008000c40                __aeabi_cdcmple
+                0x0000000008000c40                __aeabi_cdcmpeq
+                0x0000000008000c50                __aeabi_dcmpeq
+                0x0000000008000c64                __aeabi_dcmplt
+                0x0000000008000c78                __aeabi_dcmple
+                0x0000000008000c8c                __aeabi_dcmpge
+                0x0000000008000ca0                __aeabi_dcmpgt
+ .text          0x0000000008000cb4       0x2c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+                0x0000000008000cb4                __aeabi_dcmpun
+                0x0000000008000cb4                __unorddf2
+ .text          0x0000000008000ce0       0x50 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                0x0000000008000ce0                __fixdfsi
+                0x0000000008000ce0                __aeabi_d2iz
+ .text          0x0000000008000d30       0x30 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000008000d30                __aeabi_uldivmod
+ .text          0x0000000008000d60      0x2d4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+                0x0000000008000d60                __udivmoddi4
+ .text          0x0000000008001034        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000000008001034                __aeabi_ldiv0
+                0x0000000008001034                __aeabi_idiv0
+ .text          0x0000000008001038       0xec /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+                0x0000000008001038                memcpy
+ .text          0x0000000008001124        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+ .text          0x0000000008001124        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .text          0x0000000008001124        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000008001124        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.text*)
+ .text.exit     0x0000000008001124       0x20 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+                0x0000000008001124                exit
+ .text.__libc_init_array
+                0x0000000008001144       0x48 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+                0x0000000008001144                __libc_init_array
+ .text.memset   0x000000000800118c       0xa4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                0x000000000800118c                memset
+ .text.startup.register_fini
+                0x0000000008001230       0x14 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000008001244       0xc4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                0x0000000008001244                __call_exitprocs
+ .text.atexit   0x0000000008001308        0xc /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+                0x0000000008001308                atexit
+ .text.__libc_fini_array
+                0x0000000008001314       0x2c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+                0x0000000008001314                __libc_fini_array
+ .text.__retarget_lock_init
+                0x0000000008001340        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001340                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000008001344        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001344                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000008001348        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001348                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x000000000800134c        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x000000000800134c                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000008001350        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001350                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008001354        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001354                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000008001358        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001358                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x000000000800135c        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x000000000800135c                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000008001360        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001360                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000008001364        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008001364                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000008001368       0x8c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+                0x0000000008001368                __register_exitproc
+ .text._exit    0x00000000080013f4        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+                0x00000000080013f4                _exit
+ .text.SystemInit
+                0x00000000080013f8       0x68 build/system_stm32l1xx.o
+                0x00000000080013f8                SystemInit
+ .text.SystemCoreClockUpdate
+                0x0000000008001460      0x158 build/system_stm32l1xx.o
+                0x0000000008001460                SystemCoreClockUpdate
+ .text.SetSysClock
+                0x00000000080015b8      0x120 build/system_stm32l1xx.o
+ .text.eeprom_read
+                0x00000000080016d8       0x56 build/eeprom.o
+                0x00000000080016d8                eeprom_read
+ .text.eeprom_write
+                0x000000000800172e       0x86 build/eeprom.o
+                0x000000000800172e                eeprom_write
+ .text.eeprom_erase
+                0x00000000080017b4       0x78 build/eeprom.o
+                0x00000000080017b4                eeprom_erase
+ .text.Rs485_Init
+                0x000000000800182c      0x11c build/rs485.o
+                0x000000000800182c                Rs485_Init
+ .text.Rs485_SendData
+                0x0000000008001948       0x70 build/rs485.o
+                0x0000000008001948                Rs485_SendData
+ .text.Rs485_ReadData
+                0x00000000080019b8       0xe4 build/rs485.o
+                0x00000000080019b8                Rs485_ReadData
+ *fill*         0x0000000008001a9c        0x4 
+ .text.ilog10   0x0000000008001aa0       0xf8 build/xprintf.o
+ .text.i10x     0x0000000008001b98       0xc8 build/xprintf.o
+ .text.ftoa     0x0000000008001c60      0x308 build/xprintf.o
+ .text.xputc    0x0000000008001f68       0x20 build/xprintf.o
+                0x0000000008001f68                xputc
+ .text.xfputc   0x0000000008001f88       0x4c build/xprintf.o
+                0x0000000008001f88                xfputc
+ .text.xputs    0x0000000008001fd4       0x20 build/xprintf.o
+                0x0000000008001fd4                xputs
+ .text.xfputs   0x0000000008001ff4       0x2e build/xprintf.o
+                0x0000000008001ff4                xfputs
+ *fill*         0x0000000008002022        0x2 
+ .text.xvfprintf
+                0x0000000008002024      0x5a0 build/xprintf.o
+ .text.xprintf  0x00000000080025c4       0x30 build/xprintf.o
+                0x00000000080025c4                xprintf
+ .text.xfprintf
+                0x00000000080025f4       0x28 build/xprintf.o
+                0x00000000080025f4                xfprintf
+ .text.xsprintf
+                0x000000000800261c       0x40 build/xprintf.o
+                0x000000000800261c                xsprintf
+ .text.NVIC_SetPriority
+                0x000000000800265c       0x54 build/debug.o
+ .text.Debug_Init
+                0x00000000080026b0      0x14c build/debug.o
+                0x00000000080026b0                Debug_Init
+ .text.Redirect_Printf
+                0x00000000080027fc       0x44 build/debug.o
+                0x00000000080027fc                Redirect_Printf
+ .text.Delay_Ms
+                0x0000000008002840       0x28 build/debug.o
+                0x0000000008002840                Delay_Ms
+ .text.TimingDelay_Decrement
+                0x0000000008002868       0x24 build/debug.o
+                0x0000000008002868                TimingDelay_Decrement
+ .text.Led_Life_Init
+                0x000000000800288c       0x3c build/led_life.o
+                0x000000000800288c                Led_Life_Init
+ .text.Led_Life_Toggle
+                0x00000000080028c8       0x18 build/led_life.o
+                0x00000000080028c8                Led_Life_Toggle
+ .text.NVIC_PriorityGroupConfig
+                0x00000000080028e0       0x24 build/misc.o
+                0x00000000080028e0                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x0000000008002904       0xc4 build/misc.o
+                0x0000000008002904                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x00000000080029c8       0x2c build/misc.o
+                0x00000000080029c8                NVIC_SetVectorTable
+ .text.NVIC_SystemLPConfig
+                0x00000000080029f4       0x40 build/misc.o
+                0x00000000080029f4                NVIC_SystemLPConfig
+ .text.SysTick_CLKSourceConfig
+                0x0000000008002a34       0x38 build/misc.o
+                0x0000000008002a34                SysTick_CLKSourceConfig
+ .text.ADC_DeInit
+                0x0000000008002a6c       0x30 build/stm32l1xx_adc.o
+                0x0000000008002a6c                ADC_DeInit
+ .text.ADC_Init
+                0x0000000008002a9c       0xa8 build/stm32l1xx_adc.o
+                0x0000000008002a9c                ADC_Init
+ .text.ADC_StructInit
+                0x0000000008002b44       0x3e build/stm32l1xx_adc.o
+                0x0000000008002b44                ADC_StructInit
+ *fill*         0x0000000008002b82        0x2 
+ .text.ADC_CommonInit
+                0x0000000008002b84       0x38 build/stm32l1xx_adc.o
+                0x0000000008002b84                ADC_CommonInit
+ .text.ADC_CommonStructInit
+                0x0000000008002bbc       0x18 build/stm32l1xx_adc.o
+                0x0000000008002bbc                ADC_CommonStructInit
+ .text.ADC_Cmd  0x0000000008002bd4       0x36 build/stm32l1xx_adc.o
+                0x0000000008002bd4                ADC_Cmd
+ .text.ADC_BankSelection
+                0x0000000008002c0a       0x36 build/stm32l1xx_adc.o
+                0x0000000008002c0a                ADC_BankSelection
+ .text.ADC_PowerDownCmd
+                0x0000000008002c40       0x3a build/stm32l1xx_adc.o
+                0x0000000008002c40                ADC_PowerDownCmd
+ .text.ADC_DelaySelectionConfig
+                0x0000000008002c7a       0x36 build/stm32l1xx_adc.o
+                0x0000000008002c7a                ADC_DelaySelectionConfig
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000008002cb0       0x38 build/stm32l1xx_adc.o
+                0x0000000008002cb0                ADC_AnalogWatchdogCmd
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000008002ce8       0x26 build/stm32l1xx_adc.o
+                0x0000000008002ce8                ADC_AnalogWatchdogThresholdsConfig
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000008002d0e       0x36 build/stm32l1xx_adc.o
+                0x0000000008002d0e                ADC_AnalogWatchdogSingleChannelConfig
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000008002d44       0x38 build/stm32l1xx_adc.o
+                0x0000000008002d44                ADC_TempSensorVrefintCmd
+ .text.ADC_RegularChannelConfig
+                0x0000000008002d7c      0x2ca build/stm32l1xx_adc.o
+                0x0000000008002d7c                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x0000000008003046       0x1e build/stm32l1xx_adc.o
+                0x0000000008003046                ADC_SoftwareStartConv
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000008003064       0x2e build/stm32l1xx_adc.o
+                0x0000000008003064                ADC_GetSoftwareStartConvStatus
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x0000000008003092       0x36 build/stm32l1xx_adc.o
+                0x0000000008003092                ADC_EOCOnEachRegularChannelCmd
+ .text.ADC_ContinuousModeCmd
+                0x00000000080030c8       0x36 build/stm32l1xx_adc.o
+                0x00000000080030c8                ADC_ContinuousModeCmd
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000080030fe       0x42 build/stm32l1xx_adc.o
+                0x00000000080030fe                ADC_DiscModeChannelCountConfig
+ .text.ADC_DiscModeCmd
+                0x0000000008003140       0x36 build/stm32l1xx_adc.o
+                0x0000000008003140                ADC_DiscModeCmd
+ .text.ADC_GetConversionValue
+                0x0000000008003176       0x18 build/stm32l1xx_adc.o
+                0x0000000008003176                ADC_GetConversionValue
+ .text.ADC_DMACmd
+                0x000000000800318e       0x36 build/stm32l1xx_adc.o
+                0x000000000800318e                ADC_DMACmd
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x00000000080031c4       0x36 build/stm32l1xx_adc.o
+                0x00000000080031c4                ADC_DMARequestAfterLastTransferCmd
+ .text.ADC_InjectedChannelConfig
+                0x00000000080031fa      0x1bc build/stm32l1xx_adc.o
+                0x00000000080031fa                ADC_InjectedChannelConfig
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000080033b6       0x42 build/stm32l1xx_adc.o
+                0x00000000080033b6                ADC_InjectedSequencerLengthConfig
+ .text.ADC_SetInjectedOffset
+                0x00000000080033f8       0x32 build/stm32l1xx_adc.o
+                0x00000000080033f8                ADC_SetInjectedOffset
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x000000000800342a       0x34 build/stm32l1xx_adc.o
+                0x000000000800342a                ADC_ExternalTrigInjectedConvConfig
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x000000000800345e       0x34 build/stm32l1xx_adc.o
+                0x000000000800345e                ADC_ExternalTrigInjectedConvEdgeConfig
+ .text.ADC_SoftwareStartInjectedConv
+                0x0000000008003492       0x1e build/stm32l1xx_adc.o
+                0x0000000008003492                ADC_SoftwareStartInjectedConv
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000080034b0       0x2e build/stm32l1xx_adc.o
+                0x00000000080034b0                ADC_GetSoftwareStartInjectedConvCmdStatus
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000080034de       0x36 build/stm32l1xx_adc.o
+                0x00000000080034de                ADC_AutoInjectedConvCmd
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000008003514       0x36 build/stm32l1xx_adc.o
+                0x0000000008003514                ADC_InjectedDiscModeCmd
+ .text.ADC_GetInjectedConversionValue
+                0x000000000800354a       0x2e build/stm32l1xx_adc.o
+                0x000000000800354a                ADC_GetInjectedConversionValue
+ .text.ADC_ITConfig
+                0x0000000008003578       0x50 build/stm32l1xx_adc.o
+                0x0000000008003578                ADC_ITConfig
+ .text.ADC_GetFlagStatus
+                0x00000000080035c8       0x32 build/stm32l1xx_adc.o
+                0x00000000080035c8                ADC_GetFlagStatus
+ .text.ADC_ClearFlag
+                0x00000000080035fa       0x1e build/stm32l1xx_adc.o
+                0x00000000080035fa                ADC_ClearFlag
+ .text.ADC_GetITStatus
+                0x0000000008003618       0x5a build/stm32l1xx_adc.o
+                0x0000000008003618                ADC_GetITStatus
+ .text.ADC_ClearITPendingBit
+                0x0000000008003672       0x2a build/stm32l1xx_adc.o
+                0x0000000008003672                ADC_ClearITPendingBit
+ .text.AES_ECB_Encrypt
+                0x000000000800369c      0x178 build/stm32l1xx_aes_util.o
+                0x000000000800369c                AES_ECB_Encrypt
+ .text.AES_ECB_Decrypt
+                0x0000000008003814      0x178 build/stm32l1xx_aes_util.o
+                0x0000000008003814                AES_ECB_Decrypt
+ .text.AES_CBC_Encrypt
+                0x000000000800398c      0x1ca build/stm32l1xx_aes_util.o
+                0x000000000800398c                AES_CBC_Encrypt
+ .text.AES_CBC_Decrypt
+                0x0000000008003b56      0x1ca build/stm32l1xx_aes_util.o
+                0x0000000008003b56                AES_CBC_Decrypt
+ .text.AES_CTR_Encrypt
+                0x0000000008003d20      0x1ca build/stm32l1xx_aes_util.o
+                0x0000000008003d20                AES_CTR_Encrypt
+ .text.AES_CTR_Decrypt
+                0x0000000008003eea      0x1ca build/stm32l1xx_aes_util.o
+                0x0000000008003eea                AES_CTR_Decrypt
+ .text.AES_DeInit
+                0x00000000080040b4       0x1c build/stm32l1xx_aes.o
+                0x00000000080040b4                AES_DeInit
+ .text.AES_Init
+                0x00000000080040d0       0x44 build/stm32l1xx_aes.o
+                0x00000000080040d0                AES_Init
+ .text.AES_KeyInit
+                0x0000000008004114       0x38 build/stm32l1xx_aes.o
+                0x0000000008004114                AES_KeyInit
+ .text.AES_IVInit
+                0x000000000800414c       0x38 build/stm32l1xx_aes.o
+                0x000000000800414c                AES_IVInit
+ .text.AES_Cmd  0x0000000008004184       0x38 build/stm32l1xx_aes.o
+                0x0000000008004184                AES_Cmd
+ .text.AES_StructInit
+                0x00000000080041bc       0x24 build/stm32l1xx_aes.o
+                0x00000000080041bc                AES_StructInit
+ .text.AES_KeyStructInit
+                0x00000000080041e0       0x2a build/stm32l1xx_aes.o
+                0x00000000080041e0                AES_KeyStructInit
+ .text.AES_IVStructInit
+                0x000000000800420a       0x2a build/stm32l1xx_aes.o
+                0x000000000800420a                AES_IVStructInit
+ .text.AES_WriteSubData
+                0x0000000008004234       0x1c build/stm32l1xx_aes.o
+                0x0000000008004234                AES_WriteSubData
+ .text.AES_ReadSubData
+                0x0000000008004250       0x14 build/stm32l1xx_aes.o
+                0x0000000008004250                AES_ReadSubData
+ .text.AES_ReadKey
+                0x0000000008004264       0x38 build/stm32l1xx_aes.o
+                0x0000000008004264                AES_ReadKey
+ .text.AES_ReadIV
+                0x000000000800429c       0x38 build/stm32l1xx_aes.o
+                0x000000000800429c                AES_ReadIV
+ .text.AES_DMAConfig
+                0x00000000080042d4       0x3c build/stm32l1xx_aes.o
+                0x00000000080042d4                AES_DMAConfig
+ .text.AES_ITConfig
+                0x0000000008004310       0x3c build/stm32l1xx_aes.o
+                0x0000000008004310                AES_ITConfig
+ .text.AES_GetFlagStatus
+                0x000000000800434c       0x34 build/stm32l1xx_aes.o
+                0x000000000800434c                AES_GetFlagStatus
+ .text.AES_ClearFlag
+                0x0000000008004380       0x38 build/stm32l1xx_aes.o
+                0x0000000008004380                AES_ClearFlag
+ .text.AES_GetITStatus
+                0x00000000080043b8       0x80 build/stm32l1xx_aes.o
+                0x00000000080043b8                AES_GetITStatus
+ .text.AES_ClearITPendingBit
+                0x0000000008004438       0x24 build/stm32l1xx_aes.o
+                0x0000000008004438                AES_ClearITPendingBit
+ .text.COMP_DeInit
+                0x000000000800445c       0x18 build/stm32l1xx_comp.o
+                0x000000000800445c                COMP_DeInit
+ .text.COMP_Init
+                0x0000000008004474       0x48 build/stm32l1xx_comp.o
+                0x0000000008004474                COMP_Init
+ .text.COMP_Cmd
+                0x00000000080044bc       0x38 build/stm32l1xx_comp.o
+                0x00000000080044bc                COMP_Cmd
+ .text.COMP_GetOutputLevel
+                0x00000000080044f4       0x50 build/stm32l1xx_comp.o
+                0x00000000080044f4                COMP_GetOutputLevel
+ .text.COMP_SW1SwitchConfig
+                0x0000000008004544       0x38 build/stm32l1xx_comp.o
+                0x0000000008004544                COMP_SW1SwitchConfig
+ .text.COMP_WindowCmd
+                0x000000000800457c       0x38 build/stm32l1xx_comp.o
+                0x000000000800457c                COMP_WindowCmd
+ .text.COMP_VrefintOutputCmd
+                0x00000000080045b4       0x38 build/stm32l1xx_comp.o
+                0x00000000080045b4                COMP_VrefintOutputCmd
+ .text.CRC_ResetDR
+                0x00000000080045ec       0x18 build/stm32l1xx_crc.o
+                0x00000000080045ec                CRC_ResetDR
+ .text.CRC_CalcCRC
+                0x0000000008004604       0x20 build/stm32l1xx_crc.o
+                0x0000000008004604                CRC_CalcCRC
+ .text.CRC_CalcBlockCRC
+                0x0000000008004624       0x44 build/stm32l1xx_crc.o
+                0x0000000008004624                CRC_CalcBlockCRC
+ .text.CRC_GetCRC
+                0x0000000008004668       0x14 build/stm32l1xx_crc.o
+                0x0000000008004668                CRC_GetCRC
+ .text.CRC_SetIDRegister
+                0x000000000800467c       0x20 build/stm32l1xx_crc.o
+                0x000000000800467c                CRC_SetIDRegister
+ .text.CRC_GetIDRegister
+                0x000000000800469c       0x18 build/stm32l1xx_crc.o
+                0x000000000800469c                CRC_GetIDRegister
+ .text.DAC_DeInit
+                0x00000000080046b4       0x1c build/stm32l1xx_dac.o
+                0x00000000080046b4                DAC_DeInit
+ .text.DAC_Init
+                0x00000000080046d0       0x64 build/stm32l1xx_dac.o
+                0x00000000080046d0                DAC_Init
+ .text.DAC_StructInit
+                0x0000000008004734       0x2a build/stm32l1xx_dac.o
+                0x0000000008004734                DAC_StructInit
+ *fill*         0x000000000800475e        0x2 
+ .text.DAC_Cmd  0x0000000008004760       0x48 build/stm32l1xx_dac.o
+                0x0000000008004760                DAC_Cmd
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000080047a8       0x4c build/stm32l1xx_dac.o
+                0x00000000080047a8                DAC_SoftwareTriggerCmd
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000080047f4       0x38 build/stm32l1xx_dac.o
+                0x00000000080047f4                DAC_DualSoftwareTriggerCmd
+ .text.DAC_WaveGenerationCmd
+                0x000000000800482c       0x4c build/stm32l1xx_dac.o
+                0x000000000800482c                DAC_WaveGenerationCmd
+ .text.DAC_SetChannel1Data
+                0x0000000008004878       0x34 build/stm32l1xx_dac.o
+                0x0000000008004878                DAC_SetChannel1Data
+ .text.DAC_SetChannel2Data
+                0x00000000080048ac       0x34 build/stm32l1xx_dac.o
+                0x00000000080048ac                DAC_SetChannel2Data
+ .text.DAC_SetDualChannelData
+                0x00000000080048e0       0x58 build/stm32l1xx_dac.o
+                0x00000000080048e0                DAC_SetDualChannelData
+ .text.DAC_GetDataOutputValue
+                0x0000000008004938       0x30 build/stm32l1xx_dac.o
+                0x0000000008004938                DAC_GetDataOutputValue
+ .text.DAC_DMACmd
+                0x0000000008004968       0x4c build/stm32l1xx_dac.o
+                0x0000000008004968                DAC_DMACmd
+ .text.DAC_ITConfig
+                0x00000000080049b4       0x4c build/stm32l1xx_dac.o
+                0x00000000080049b4                DAC_ITConfig
+ .text.DAC_GetFlagStatus
+                0x0000000008004a00       0x3c build/stm32l1xx_dac.o
+                0x0000000008004a00                DAC_GetFlagStatus
+ .text.DAC_ClearFlag
+                0x0000000008004a3c       0x24 build/stm32l1xx_dac.o
+                0x0000000008004a3c                DAC_ClearFlag
+ .text.DAC_GetITStatus
+                0x0000000008004a60       0x54 build/stm32l1xx_dac.o
+                0x0000000008004a60                DAC_GetITStatus
+ .text.DAC_ClearITPendingBit
+                0x0000000008004ab4       0x24 build/stm32l1xx_dac.o
+                0x0000000008004ab4                DAC_ClearITPendingBit
+ .text.DBGMCU_GetREVID
+                0x0000000008004ad8       0x18 build/stm32l1xx_dbgmcu.o
+                0x0000000008004ad8                DBGMCU_GetREVID
+ .text.DBGMCU_GetDEVID
+                0x0000000008004af0       0x18 build/stm32l1xx_dbgmcu.o
+                0x0000000008004af0                DBGMCU_GetDEVID
+ .text.DBGMCU_Config
+                0x0000000008004b08       0x3c build/stm32l1xx_dbgmcu.o
+                0x0000000008004b08                DBGMCU_Config
+ .text.DBGMCU_APB1PeriphConfig
+                0x0000000008004b44       0x3c build/stm32l1xx_dbgmcu.o
+                0x0000000008004b44                DBGMCU_APB1PeriphConfig
+ .text.DBGMCU_APB2PeriphConfig
+                0x0000000008004b80       0x3c build/stm32l1xx_dbgmcu.o
+                0x0000000008004b80                DBGMCU_APB2PeriphConfig
+ .text.DMA_DeInit
+                0x0000000008004bbc      0x178 build/stm32l1xx_dma.o
+                0x0000000008004bbc                DMA_DeInit
+ .text.DMA_Init
+                0x0000000008004d34       0x7c build/stm32l1xx_dma.o
+                0x0000000008004d34                DMA_Init
+ .text.DMA_StructInit
+                0x0000000008004db0       0x54 build/stm32l1xx_dma.o
+                0x0000000008004db0                DMA_StructInit
+ .text.DMA_Cmd  0x0000000008004e04       0x38 build/stm32l1xx_dma.o
+                0x0000000008004e04                DMA_Cmd
+ .text.DMA_SetCurrDataCounter
+                0x0000000008004e3c       0x1c build/stm32l1xx_dma.o
+                0x0000000008004e3c                DMA_SetCurrDataCounter
+ .text.DMA_GetCurrDataCounter
+                0x0000000008004e58       0x18 build/stm32l1xx_dma.o
+                0x0000000008004e58                DMA_GetCurrDataCounter
+ .text.DMA_ITConfig
+                0x0000000008004e70       0x3a build/stm32l1xx_dma.o
+                0x0000000008004e70                DMA_ITConfig
+ *fill*         0x0000000008004eaa        0x2 
+ .text.DMA_GetFlagStatus
+                0x0000000008004eac       0x50 build/stm32l1xx_dma.o
+                0x0000000008004eac                DMA_GetFlagStatus
+ .text.DMA_ClearFlag
+                0x0000000008004efc       0x34 build/stm32l1xx_dma.o
+                0x0000000008004efc                DMA_ClearFlag
+ .text.DMA_GetITStatus
+                0x0000000008004f30       0x50 build/stm32l1xx_dma.o
+                0x0000000008004f30                DMA_GetITStatus
+ .text.DMA_ClearITPendingBit
+                0x0000000008004f80       0x34 build/stm32l1xx_dma.o
+                0x0000000008004f80                DMA_ClearITPendingBit
+ .text.EXTI_DeInit
+                0x0000000008004fb4       0x30 build/stm32l1xx_exti.o
+                0x0000000008004fb4                EXTI_DeInit
+ .text.EXTI_Init
+                0x0000000008004fe4       0xe4 build/stm32l1xx_exti.o
+                0x0000000008004fe4                EXTI_Init
+ .text.EXTI_StructInit
+                0x00000000080050c8       0x2a build/stm32l1xx_exti.o
+                0x00000000080050c8                EXTI_StructInit
+ *fill*         0x00000000080050f2        0x2 
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000080050f4       0x24 build/stm32l1xx_exti.o
+                0x00000000080050f4                EXTI_GenerateSWInterrupt
+ .text.EXTI_GetFlagStatus
+                0x0000000008005118       0x34 build/stm32l1xx_exti.o
+                0x0000000008005118                EXTI_GetFlagStatus
+ .text.EXTI_ClearFlag
+                0x000000000800514c       0x1c build/stm32l1xx_exti.o
+                0x000000000800514c                EXTI_ClearFlag
+ .text.EXTI_GetITStatus
+                0x0000000008005168       0x34 build/stm32l1xx_exti.o
+                0x0000000008005168                EXTI_GetITStatus
+ .text.EXTI_ClearITPendingBit
+                0x000000000800519c       0x1c build/stm32l1xx_exti.o
+                0x000000000800519c                EXTI_ClearITPendingBit
+ .text.FLASH_SetLatency
+                0x00000000080051b8       0x38 build/stm32l1xx_flash.o
+                0x00000000080051b8                FLASH_SetLatency
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000080051f0       0x38 build/stm32l1xx_flash.o
+                0x00000000080051f0                FLASH_PrefetchBufferCmd
+ .text.FLASH_ReadAccess64Cmd
+                0x0000000008005228       0x38 build/stm32l1xx_flash.o
+                0x0000000008005228                FLASH_ReadAccess64Cmd
+ .text.FLASH_SLEEPPowerDownCmd
+                0x0000000008005260       0x38 build/stm32l1xx_flash.o
+                0x0000000008005260                FLASH_SLEEPPowerDownCmd
+ .text.FLASH_Unlock
+                0x0000000008005298       0x30 build/stm32l1xx_flash.o
+                0x0000000008005298                FLASH_Unlock
+ .text.FLASH_Lock
+                0x00000000080052c8       0x1c build/stm32l1xx_flash.o
+                0x00000000080052c8                FLASH_Lock
+ .text.FLASH_ErasePage
+                0x00000000080052e4       0x70 build/stm32l1xx_flash.o
+                0x00000000080052e4                FLASH_ErasePage
+ .text.FLASH_FastProgramWord
+                0x0000000008005354       0x3c build/stm32l1xx_flash.o
+                0x0000000008005354                FLASH_FastProgramWord
+ .text.DATA_EEPROM_Unlock
+                0x0000000008005390       0x30 build/stm32l1xx_flash.o
+                0x0000000008005390                DATA_EEPROM_Unlock
+ .text.DATA_EEPROM_Lock
+                0x00000000080053c0       0x1c build/stm32l1xx_flash.o
+                0x00000000080053c0                DATA_EEPROM_Lock
+ .text.DATA_EEPROM_FixedTimeProgramCmd
+                0x00000000080053dc       0x38 build/stm32l1xx_flash.o
+                0x00000000080053dc                DATA_EEPROM_FixedTimeProgramCmd
+ .text.DATA_EEPROM_EraseByte
+                0x0000000008005414       0x2e build/stm32l1xx_flash.o
+                0x0000000008005414                DATA_EEPROM_EraseByte
+ .text.DATA_EEPROM_EraseHalfWord
+                0x0000000008005442       0x2e build/stm32l1xx_flash.o
+                0x0000000008005442                DATA_EEPROM_EraseHalfWord
+ .text.DATA_EEPROM_EraseWord
+                0x0000000008005470       0x2e build/stm32l1xx_flash.o
+                0x0000000008005470                DATA_EEPROM_EraseWord
+ *fill*         0x000000000800549e        0x2 
+ .text.DATA_EEPROM_FastProgramByte
+                0x00000000080054a0       0xa8 build/stm32l1xx_flash.o
+                0x00000000080054a0                DATA_EEPROM_FastProgramByte
+ .text.DATA_EEPROM_FastProgramHalfWord
+                0x0000000008005548       0xcc build/stm32l1xx_flash.o
+                0x0000000008005548                DATA_EEPROM_FastProgramHalfWord
+ .text.DATA_EEPROM_FastProgramWord
+                0x0000000008005614       0x4c build/stm32l1xx_flash.o
+                0x0000000008005614                DATA_EEPROM_FastProgramWord
+ .text.DATA_EEPROM_ProgramByte
+                0x0000000008005660       0x98 build/stm32l1xx_flash.o
+                0x0000000008005660                DATA_EEPROM_ProgramByte
+ .text.DATA_EEPROM_ProgramHalfWord
+                0x00000000080056f8       0xba build/stm32l1xx_flash.o
+                0x00000000080056f8                DATA_EEPROM_ProgramHalfWord
+ .text.DATA_EEPROM_ProgramWord
+                0x00000000080057b2       0x3c build/stm32l1xx_flash.o
+                0x00000000080057b2                DATA_EEPROM_ProgramWord
+ *fill*         0x00000000080057ee        0x2 
+ .text.FLASH_OB_Unlock
+                0x00000000080057f0       0x30 build/stm32l1xx_flash.o
+                0x00000000080057f0                FLASH_OB_Unlock
+ .text.FLASH_OB_Lock
+                0x0000000008005820       0x1c build/stm32l1xx_flash.o
+                0x0000000008005820                FLASH_OB_Lock
+ .text.FLASH_OB_Launch
+                0x000000000800583c       0x1c build/stm32l1xx_flash.o
+                0x000000000800583c                FLASH_OB_Launch
+ .text.FLASH_OB_WRPConfig
+                0x0000000008005858       0xe8 build/stm32l1xx_flash.o
+                0x0000000008005858                FLASH_OB_WRPConfig
+ .text.FLASH_OB_WRP1Config
+                0x0000000008005940       0xe8 build/stm32l1xx_flash.o
+                0x0000000008005940                FLASH_OB_WRP1Config
+ .text.FLASH_OB_WRP2Config
+                0x0000000008005a28       0xe8 build/stm32l1xx_flash.o
+                0x0000000008005a28                FLASH_OB_WRP2Config
+ .text.FLASH_OB_WRP3Config
+                0x0000000008005b10       0xf8 build/stm32l1xx_flash.o
+                0x0000000008005b10                FLASH_OB_WRP3Config
+ .text.FLASH_OB_RDPConfig
+                0x0000000008005c08       0x6c build/stm32l1xx_flash.o
+                0x0000000008005c08                FLASH_OB_RDPConfig
+ .text.FLASH_OB_PCROPConfig
+                0x0000000008005c74       0xe8 build/stm32l1xx_flash.o
+                0x0000000008005c74                FLASH_OB_PCROPConfig
+ .text.FLASH_OB_PCROP1Config
+                0x0000000008005d5c       0xe8 build/stm32l1xx_flash.o
+                0x0000000008005d5c                FLASH_OB_PCROP1Config
+ .text.FLASH_OB_PCROPSelectionConfig
+                0x0000000008005e44       0x70 build/stm32l1xx_flash.o
+                0x0000000008005e44                FLASH_OB_PCROPSelectionConfig
+ .text.FLASH_OB_UserConfig
+                0x0000000008005eb4       0x94 build/stm32l1xx_flash.o
+                0x0000000008005eb4                FLASH_OB_UserConfig
+ .text.FLASH_OB_BORConfig
+                0x0000000008005f48       0x70 build/stm32l1xx_flash.o
+                0x0000000008005f48                FLASH_OB_BORConfig
+ .text.FLASH_OB_BootConfig
+                0x0000000008005fb8       0x70 build/stm32l1xx_flash.o
+                0x0000000008005fb8                FLASH_OB_BootConfig
+ .text.FLASH_OB_GetUser
+                0x0000000008006028       0x18 build/stm32l1xx_flash.o
+                0x0000000008006028                FLASH_OB_GetUser
+ .text.FLASH_OB_GetWRP
+                0x0000000008006040       0x14 build/stm32l1xx_flash.o
+                0x0000000008006040                FLASH_OB_GetWRP
+ .text.FLASH_OB_GetWRP1
+                0x0000000008006054       0x18 build/stm32l1xx_flash.o
+                0x0000000008006054                FLASH_OB_GetWRP1
+ .text.FLASH_OB_GetWRP2
+                0x000000000800606c       0x18 build/stm32l1xx_flash.o
+                0x000000000800606c                FLASH_OB_GetWRP2
+ .text.FLASH_OB_GetWRP3
+                0x0000000008006084       0x18 build/stm32l1xx_flash.o
+                0x0000000008006084                FLASH_OB_GetWRP3
+ .text.FLASH_OB_GetRDP
+                0x000000000800609c       0x30 build/stm32l1xx_flash.o
+                0x000000000800609c                FLASH_OB_GetRDP
+ .text.FLASH_OB_GetSPRMOD
+                0x00000000080060cc       0x3c build/stm32l1xx_flash.o
+                0x00000000080060cc                FLASH_OB_GetSPRMOD
+ .text.FLASH_OB_GetBOR
+                0x0000000008006108       0x20 build/stm32l1xx_flash.o
+                0x0000000008006108                FLASH_OB_GetBOR
+ .text.FLASH_ITConfig
+                0x0000000008006128       0x3c build/stm32l1xx_flash.o
+                0x0000000008006128                FLASH_ITConfig
+ .text.FLASH_GetFlagStatus
+                0x0000000008006164       0x34 build/stm32l1xx_flash.o
+                0x0000000008006164                FLASH_GetFlagStatus
+ .text.FLASH_ClearFlag
+                0x0000000008006198       0x1c build/stm32l1xx_flash.o
+                0x0000000008006198                FLASH_ClearFlag
+ .text.FLASH_GetStatus
+                0x00000000080061b4       0x54 build/stm32l1xx_flash.o
+                0x00000000080061b4                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x0000000008006208       0x48 build/stm32l1xx_flash.o
+                0x0000000008006208                FLASH_WaitForLastOperation
+ .text.FSMC_NORSRAMDeInit
+                0x0000000008006250       0x58 build/stm32l1xx_fsmc.o
+                0x0000000008006250                FSMC_NORSRAMDeInit
+ .text.FSMC_NORSRAMInit
+                0x00000000080062a8      0x13c build/stm32l1xx_fsmc.o
+                0x00000000080062a8                FSMC_NORSRAMInit
+ .text.FSMC_NORSRAMStructInit
+                0x00000000080063e4       0xd4 build/stm32l1xx_fsmc.o
+                0x00000000080063e4                FSMC_NORSRAMStructInit
+ .text.FSMC_NORSRAMCmd
+                0x00000000080064b8       0x4e build/stm32l1xx_fsmc.o
+                0x00000000080064b8                FSMC_NORSRAMCmd
+ *fill*         0x0000000008006506        0x2 
+ .text.GPIO_DeInit
+                0x0000000008006508      0x100 build/stm32l1xx_gpio.o
+                0x0000000008006508                GPIO_DeInit
+ .text.GPIO_Init
+                0x0000000008006608      0x138 build/stm32l1xx_gpio.o
+                0x0000000008006608                GPIO_Init
+ .text.GPIO_StructInit
+                0x0000000008006740       0x32 build/stm32l1xx_gpio.o
+                0x0000000008006740                GPIO_StructInit
+ .text.GPIO_PinLockConfig
+                0x0000000008006772       0x42 build/stm32l1xx_gpio.o
+                0x0000000008006772                GPIO_PinLockConfig
+ .text.GPIO_ReadInputDataBit
+                0x00000000080067b4       0x36 build/stm32l1xx_gpio.o
+                0x00000000080067b4                GPIO_ReadInputDataBit
+ .text.GPIO_ReadInputData
+                0x00000000080067ea       0x18 build/stm32l1xx_gpio.o
+                0x00000000080067ea                GPIO_ReadInputData
+ .text.GPIO_ReadOutputDataBit
+                0x0000000008006802       0x36 build/stm32l1xx_gpio.o
+                0x0000000008006802                GPIO_ReadOutputDataBit
+ .text.GPIO_ReadOutputData
+                0x0000000008006838       0x18 build/stm32l1xx_gpio.o
+                0x0000000008006838                GPIO_ReadOutputData
+ .text.GPIO_SetBits
+                0x0000000008006850       0x1c build/stm32l1xx_gpio.o
+                0x0000000008006850                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x000000000800686c       0x1c build/stm32l1xx_gpio.o
+                0x000000000800686c                GPIO_ResetBits
+ .text.GPIO_WriteBit
+                0x0000000008006888       0x2e build/stm32l1xx_gpio.o
+                0x0000000008006888                GPIO_WriteBit
+ .text.GPIO_Write
+                0x00000000080068b6       0x1c build/stm32l1xx_gpio.o
+                0x00000000080068b6                GPIO_Write
+ .text.GPIO_ToggleBits
+                0x00000000080068d2       0x26 build/stm32l1xx_gpio.o
+                0x00000000080068d2                GPIO_ToggleBits
+ .text.GPIO_PinAFConfig
+                0x00000000080068f8       0x90 build/stm32l1xx_gpio.o
+                0x00000000080068f8                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x0000000008006988       0x48 build/stm32l1xx_i2c.o
+                0x0000000008006988                I2C_DeInit
+ .text.I2C_Init
+                0x00000000080069d0      0x184 build/stm32l1xx_i2c.o
+                0x00000000080069d0                I2C_Init
+ .text.I2C_StructInit
+                0x0000000008006b54       0x3c build/stm32l1xx_i2c.o
+                0x0000000008006b54                I2C_StructInit
+ .text.I2C_Cmd  0x0000000008006b90       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006b90                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x0000000008006bce       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006bce                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x0000000008006c0c       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006c0c                I2C_GenerateSTOP
+ .text.I2C_AcknowledgeConfig
+                0x0000000008006c4a       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006c4a                I2C_AcknowledgeConfig
+ .text.I2C_OwnAddress2Config
+                0x0000000008006c88       0x42 build/stm32l1xx_i2c.o
+                0x0000000008006c88                I2C_OwnAddress2Config
+ .text.I2C_DualAddressCmd
+                0x0000000008006cca       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006cca                I2C_DualAddressCmd
+ .text.I2C_GeneralCallCmd
+                0x0000000008006d08       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006d08                I2C_GeneralCallCmd
+ .text.I2C_SoftwareResetCmd
+                0x0000000008006d46       0x42 build/stm32l1xx_i2c.o
+                0x0000000008006d46                I2C_SoftwareResetCmd
+ .text.I2C_SMBusAlertConfig
+                0x0000000008006d88       0x40 build/stm32l1xx_i2c.o
+                0x0000000008006d88                I2C_SMBusAlertConfig
+ .text.I2C_ARPCmd
+                0x0000000008006dc8       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006dc8                I2C_ARPCmd
+ .text.I2C_StretchClockCmd
+                0x0000000008006e06       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006e06                I2C_StretchClockCmd
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000008006e44       0x40 build/stm32l1xx_i2c.o
+                0x0000000008006e44                I2C_FastModeDutyCycleConfig
+ .text.I2C_Send7bitAddress
+                0x0000000008006e84       0x3a build/stm32l1xx_i2c.o
+                0x0000000008006e84                I2C_Send7bitAddress
+ .text.I2C_SendData
+                0x0000000008006ebe       0x1e build/stm32l1xx_i2c.o
+                0x0000000008006ebe                I2C_SendData
+ .text.I2C_ReceiveData
+                0x0000000008006edc       0x1a build/stm32l1xx_i2c.o
+                0x0000000008006edc                I2C_ReceiveData
+ .text.I2C_NACKPositionConfig
+                0x0000000008006ef6       0x40 build/stm32l1xx_i2c.o
+                0x0000000008006ef6                I2C_NACKPositionConfig
+ .text.I2C_TransmitPEC
+                0x0000000008006f36       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006f36                I2C_TransmitPEC
+ .text.I2C_PECPositionConfig
+                0x0000000008006f74       0x40 build/stm32l1xx_i2c.o
+                0x0000000008006f74                I2C_PECPositionConfig
+ .text.I2C_CalculatePEC
+                0x0000000008006fb4       0x3e build/stm32l1xx_i2c.o
+                0x0000000008006fb4                I2C_CalculatePEC
+ .text.I2C_GetPEC
+                0x0000000008006ff2       0x1e build/stm32l1xx_i2c.o
+                0x0000000008006ff2                I2C_GetPEC
+ .text.I2C_DMACmd
+                0x0000000008007010       0x3e build/stm32l1xx_i2c.o
+                0x0000000008007010                I2C_DMACmd
+ .text.I2C_DMALastTransferCmd
+                0x000000000800704e       0x3e build/stm32l1xx_i2c.o
+                0x000000000800704e                I2C_DMALastTransferCmd
+ .text.I2C_ReadRegister
+                0x000000000800708c       0x2c build/stm32l1xx_i2c.o
+                0x000000000800708c                I2C_ReadRegister
+ .text.I2C_ITConfig
+                0x00000000080070b8       0x46 build/stm32l1xx_i2c.o
+                0x00000000080070b8                I2C_ITConfig
+ .text.I2C_CheckEvent
+                0x00000000080070fe       0x5e build/stm32l1xx_i2c.o
+                0x00000000080070fe                I2C_CheckEvent
+ .text.I2C_GetLastEvent
+                0x000000000800715c       0x42 build/stm32l1xx_i2c.o
+                0x000000000800715c                I2C_GetLastEvent
+ .text.I2C_GetFlagStatus
+                0x000000000800719e       0x64 build/stm32l1xx_i2c.o
+                0x000000000800719e                I2C_GetFlagStatus
+ .text.I2C_ClearFlag
+                0x0000000008007202       0x2c build/stm32l1xx_i2c.o
+                0x0000000008007202                I2C_ClearFlag
+ .text.I2C_GetITStatus
+                0x000000000800722e       0x58 build/stm32l1xx_i2c.o
+                0x000000000800722e                I2C_GetITStatus
+ .text.I2C_ClearITPendingBit
+                0x0000000008007286       0x2c build/stm32l1xx_i2c.o
+                0x0000000008007286                I2C_ClearITPendingBit
+ *fill*         0x00000000080072b2        0x2 
+ .text.IWDG_WriteAccessCmd
+                0x00000000080072b4       0x20 build/stm32l1xx_iwdg.o
+                0x00000000080072b4                IWDG_WriteAccessCmd
+ .text.IWDG_SetPrescaler
+                0x00000000080072d4       0x20 build/stm32l1xx_iwdg.o
+                0x00000000080072d4                IWDG_SetPrescaler
+ .text.IWDG_SetReload
+                0x00000000080072f4       0x20 build/stm32l1xx_iwdg.o
+                0x00000000080072f4                IWDG_SetReload
+ .text.IWDG_ReloadCounter
+                0x0000000008007314       0x18 build/stm32l1xx_iwdg.o
+                0x0000000008007314                IWDG_ReloadCounter
+ .text.IWDG_Enable
+                0x000000000800732c       0x18 build/stm32l1xx_iwdg.o
+                0x000000000800732c                IWDG_Enable
+ .text.IWDG_GetFlagStatus
+                0x0000000008007344       0x34 build/stm32l1xx_iwdg.o
+                0x0000000008007344                IWDG_GetFlagStatus
+ .text.LCD_DeInit
+                0x0000000008007378       0x1c build/stm32l1xx_lcd.o
+                0x0000000008007378                LCD_DeInit
+ .text.LCD_Init
+                0x0000000008007394       0x60 build/stm32l1xx_lcd.o
+                0x0000000008007394                LCD_Init
+ .text.LCD_StructInit
+                0x00000000080073f4       0x30 build/stm32l1xx_lcd.o
+                0x00000000080073f4                LCD_StructInit
+ .text.LCD_Cmd  0x0000000008007424       0x20 build/stm32l1xx_lcd.o
+                0x0000000008007424                LCD_Cmd
+ .text.LCD_WaitForSynchro
+                0x0000000008007444       0x3c build/stm32l1xx_lcd.o
+                0x0000000008007444                LCD_WaitForSynchro
+ .text.LCD_HighDriveCmd
+                0x0000000008007480       0x20 build/stm32l1xx_lcd.o
+                0x0000000008007480                LCD_HighDriveCmd
+ .text.LCD_MuxSegmentCmd
+                0x00000000080074a0       0x20 build/stm32l1xx_lcd.o
+                0x00000000080074a0                LCD_MuxSegmentCmd
+ .text.LCD_PulseOnDurationConfig
+                0x00000000080074c0       0x30 build/stm32l1xx_lcd.o
+                0x00000000080074c0                LCD_PulseOnDurationConfig
+ .text.LCD_DeadTimeConfig
+                0x00000000080074f0       0x30 build/stm32l1xx_lcd.o
+                0x00000000080074f0                LCD_DeadTimeConfig
+ .text.LCD_BlinkConfig
+                0x0000000008007520       0x34 build/stm32l1xx_lcd.o
+                0x0000000008007520                LCD_BlinkConfig
+ .text.LCD_ContrastConfig
+                0x0000000008007554       0x30 build/stm32l1xx_lcd.o
+                0x0000000008007554                LCD_ContrastConfig
+ .text.LCD_Write
+                0x0000000008007584       0x28 build/stm32l1xx_lcd.o
+                0x0000000008007584                LCD_Write
+ .text.LCD_UpdateDisplayRequest
+                0x00000000080075ac       0x18 build/stm32l1xx_lcd.o
+                0x00000000080075ac                LCD_UpdateDisplayRequest
+ .text.LCD_ITConfig
+                0x00000000080075c4       0x3c build/stm32l1xx_lcd.o
+                0x00000000080075c4                LCD_ITConfig
+ .text.LCD_GetFlagStatus
+                0x0000000008007600       0x34 build/stm32l1xx_lcd.o
+                0x0000000008007600                LCD_GetFlagStatus
+ .text.LCD_ClearFlag
+                0x0000000008007634       0x1c build/stm32l1xx_lcd.o
+                0x0000000008007634                LCD_ClearFlag
+ .text.LCD_GetITStatus
+                0x0000000008007650       0x50 build/stm32l1xx_lcd.o
+                0x0000000008007650                LCD_GetITStatus
+ .text.LCD_ClearITPendingBit
+                0x00000000080076a0       0x1c build/stm32l1xx_lcd.o
+                0x00000000080076a0                LCD_ClearITPendingBit
+ .text.OPAMP_DeInit
+                0x00000000080076bc       0x34 build/stm32l1xx_opamp.o
+                0x00000000080076bc                OPAMP_DeInit
+ .text.OPAMP_SwitchCmd
+                0x00000000080076f0       0x3c build/stm32l1xx_opamp.o
+                0x00000000080076f0                OPAMP_SwitchCmd
+ .text.OPAMP_Cmd
+                0x000000000800772c       0x3c build/stm32l1xx_opamp.o
+                0x000000000800772c                OPAMP_Cmd
+ .text.OPAMP_LowPowerCmd
+                0x0000000008007768       0x40 build/stm32l1xx_opamp.o
+                0x0000000008007768                OPAMP_LowPowerCmd
+ .text.OPAMP_PowerRangeSelect
+                0x00000000080077a8       0x30 build/stm32l1xx_opamp.o
+                0x00000000080077a8                OPAMP_PowerRangeSelect
+ .text.OPAMP_OffsetTrimmingModeSelect
+                0x00000000080077d8       0x30 build/stm32l1xx_opamp.o
+                0x00000000080077d8                OPAMP_OffsetTrimmingModeSelect
+ .text.OPAMP_OffsetTrimConfig
+                0x0000000008007808       0xf4 build/stm32l1xx_opamp.o
+                0x0000000008007808                OPAMP_OffsetTrimConfig
+ .text.OPAMP_OffsetTrimLowPowerConfig
+                0x00000000080078fc       0xf4 build/stm32l1xx_opamp.o
+                0x00000000080078fc                OPAMP_OffsetTrimLowPowerConfig
+ .text.OPAMP_GetFlagStatus
+                0x00000000080079f0       0x70 build/stm32l1xx_opamp.o
+                0x00000000080079f0                OPAMP_GetFlagStatus
+ .text.PWR_DeInit
+                0x0000000008007a60       0x1c build/stm32l1xx_pwr.o
+                0x0000000008007a60                PWR_DeInit
+ .text.PWR_RTCAccessCmd
+                0x0000000008007a7c       0x20 build/stm32l1xx_pwr.o
+                0x0000000008007a7c                PWR_RTCAccessCmd
+ .text.PWR_PVDLevelConfig
+                0x0000000008007a9c       0x38 build/stm32l1xx_pwr.o
+                0x0000000008007a9c                PWR_PVDLevelConfig
+ .text.PWR_PVDCmd
+                0x0000000008007ad4       0x20 build/stm32l1xx_pwr.o
+                0x0000000008007ad4                PWR_PVDCmd
+ .text.PWR_WakeUpPinCmd
+                0x0000000008007af4       0x30 build/stm32l1xx_pwr.o
+                0x0000000008007af4                PWR_WakeUpPinCmd
+ .text.PWR_FastWakeUpCmd
+                0x0000000008007b24       0x20 build/stm32l1xx_pwr.o
+                0x0000000008007b24                PWR_FastWakeUpCmd
+ .text.PWR_UltraLowPowerCmd
+                0x0000000008007b44       0x20 build/stm32l1xx_pwr.o
+                0x0000000008007b44                PWR_UltraLowPowerCmd
+ .text.PWR_VoltageScalingConfig
+                0x0000000008007b64       0x3c build/stm32l1xx_pwr.o
+                0x0000000008007b64                PWR_VoltageScalingConfig
+ .text.PWR_EnterLowPowerRunMode
+                0x0000000008007ba0       0x50 build/stm32l1xx_pwr.o
+                0x0000000008007ba0                PWR_EnterLowPowerRunMode
+ .text.PWR_EnterSleepMode
+                0x0000000008007bf0       0x60 build/stm32l1xx_pwr.o
+                0x0000000008007bf0                PWR_EnterSleepMode
+ .text.PWR_EnterSTOPMode
+                0x0000000008007c50       0x64 build/stm32l1xx_pwr.o
+                0x0000000008007c50                PWR_EnterSTOPMode
+ .text.PWR_EnterSTANDBYMode
+                0x0000000008007cb4       0x30 build/stm32l1xx_pwr.o
+                0x0000000008007cb4                PWR_EnterSTANDBYMode
+ .text.PWR_GetFlagStatus
+                0x0000000008007ce4       0x34 build/stm32l1xx_pwr.o
+                0x0000000008007ce4                PWR_GetFlagStatus
+ .text.PWR_ClearFlag
+                0x0000000008007d18       0x24 build/stm32l1xx_pwr.o
+                0x0000000008007d18                PWR_ClearFlag
+ .text.RCC_DeInit
+                0x0000000008007d3c       0x5c build/stm32l1xx_rcc.o
+                0x0000000008007d3c                RCC_DeInit
+ .text.RCC_HSEConfig
+                0x0000000008007d98       0x24 build/stm32l1xx_rcc.o
+                0x0000000008007d98                RCC_HSEConfig
+ .text.RCC_WaitForHSEStartUp
+                0x0000000008007dbc       0x50 build/stm32l1xx_rcc.o
+                0x0000000008007dbc                RCC_WaitForHSEStartUp
+ .text.RCC_AdjustMSICalibrationValue
+                0x0000000008007e0c       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007e0c                RCC_AdjustMSICalibrationValue
+ .text.RCC_MSIRangeConfig
+                0x0000000008007e2c       0x38 build/stm32l1xx_rcc.o
+                0x0000000008007e2c                RCC_MSIRangeConfig
+ .text.RCC_MSICmd
+                0x0000000008007e64       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007e64                RCC_MSICmd
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000008007e84       0x3c build/stm32l1xx_rcc.o
+                0x0000000008007e84                RCC_AdjustHSICalibrationValue
+ .text.RCC_HSICmd
+                0x0000000008007ec0       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007ec0                RCC_HSICmd
+ .text.RCC_LSEConfig
+                0x0000000008007ee0       0x24 build/stm32l1xx_rcc.o
+                0x0000000008007ee0                RCC_LSEConfig
+ .text.RCC_LSICmd
+                0x0000000008007f04       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007f04                RCC_LSICmd
+ .text.RCC_PLLConfig
+                0x0000000008007f24       0x34 build/stm32l1xx_rcc.o
+                0x0000000008007f24                RCC_PLLConfig
+ .text.RCC_PLLCmd
+                0x0000000008007f58       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007f58                RCC_PLLCmd
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000008007f78       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007f78                RCC_ClockSecuritySystemCmd
+ .text.RCC_LSEClockSecuritySystemCmd
+                0x0000000008007f98       0x20 build/stm32l1xx_rcc.o
+                0x0000000008007f98                RCC_LSEClockSecuritySystemCmd
+ .text.RCC_MCOConfig
+                0x0000000008007fb8       0x2c build/stm32l1xx_rcc.o
+                0x0000000008007fb8                RCC_MCOConfig
+ .text.RCC_SYSCLKConfig
+                0x0000000008007fe4       0x38 build/stm32l1xx_rcc.o
+                0x0000000008007fe4                RCC_SYSCLKConfig
+ .text.RCC_GetSYSCLKSource
+                0x000000000800801c       0x1c build/stm32l1xx_rcc.o
+                0x000000000800801c                RCC_GetSYSCLKSource
+ .text.RCC_HCLKConfig
+                0x0000000008008038       0x38 build/stm32l1xx_rcc.o
+                0x0000000008008038                RCC_HCLKConfig
+ .text.RCC_PCLK1Config
+                0x0000000008008070       0x38 build/stm32l1xx_rcc.o
+                0x0000000008008070                RCC_PCLK1Config
+ .text.RCC_PCLK2Config
+                0x00000000080080a8       0x38 build/stm32l1xx_rcc.o
+                0x00000000080080a8                RCC_PCLK2Config
+ .text.RCC_GetClocksFreq
+                0x00000000080080e0      0x1b4 build/stm32l1xx_rcc.o
+                0x00000000080080e0                RCC_GetClocksFreq
+ .text.RCC_RTCCLKConfig
+                0x0000000008008294       0x64 build/stm32l1xx_rcc.o
+                0x0000000008008294                RCC_RTCCLKConfig
+ .text.RCC_RTCCLKCmd
+                0x00000000080082f8       0x20 build/stm32l1xx_rcc.o
+                0x00000000080082f8                RCC_RTCCLKCmd
+ .text.RCC_RTCResetCmd
+                0x0000000008008318       0x20 build/stm32l1xx_rcc.o
+                0x0000000008008318                RCC_RTCResetCmd
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000008008338       0x3c build/stm32l1xx_rcc.o
+                0x0000000008008338                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000008008374       0x3c build/stm32l1xx_rcc.o
+                0x0000000008008374                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000080083b0       0x3c build/stm32l1xx_rcc.o
+                0x00000000080083b0                RCC_APB1PeriphClockCmd
+ .text.RCC_AHBPeriphResetCmd
+                0x00000000080083ec       0x3c build/stm32l1xx_rcc.o
+                0x00000000080083ec                RCC_AHBPeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000008008428       0x3c build/stm32l1xx_rcc.o
+                0x0000000008008428                RCC_APB2PeriphResetCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000008008464       0x3c build/stm32l1xx_rcc.o
+                0x0000000008008464                RCC_APB1PeriphResetCmd
+ .text.RCC_AHBPeriphClockLPModeCmd
+                0x00000000080084a0       0x3c build/stm32l1xx_rcc.o
+                0x00000000080084a0                RCC_AHBPeriphClockLPModeCmd
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000080084dc       0x3c build/stm32l1xx_rcc.o
+                0x00000000080084dc                RCC_APB2PeriphClockLPModeCmd
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x0000000008008518       0x3c build/stm32l1xx_rcc.o
+                0x0000000008008518                RCC_APB1PeriphClockLPModeCmd
+ .text.RCC_ITConfig
+                0x0000000008008554       0x4c build/stm32l1xx_rcc.o
+                0x0000000008008554                RCC_ITConfig
+ .text.RCC_GetFlagStatus
+                0x00000000080085a0       0x64 build/stm32l1xx_rcc.o
+                0x00000000080085a0                RCC_GetFlagStatus
+ .text.RCC_ClearFlag
+                0x0000000008008604       0x1c build/stm32l1xx_rcc.o
+                0x0000000008008604                RCC_ClearFlag
+ .text.RCC_GetITStatus
+                0x0000000008008620       0x34 build/stm32l1xx_rcc.o
+                0x0000000008008620                RCC_GetITStatus
+ .text.RCC_ClearITPendingBit
+                0x0000000008008654       0x20 build/stm32l1xx_rcc.o
+                0x0000000008008654                RCC_ClearITPendingBit
+ .text.RTC_DeInit
+                0x0000000008008674       0xf4 build/stm32l1xx_rtc.o
+                0x0000000008008674                RTC_DeInit
+ .text.RTC_Init
+                0x0000000008008768       0x78 build/stm32l1xx_rtc.o
+                0x0000000008008768                RTC_Init
+ .text.RTC_StructInit
+                0x00000000080087e0       0x24 build/stm32l1xx_rtc.o
+                0x00000000080087e0                RTC_StructInit
+ .text.RTC_WriteProtectionCmd
+                0x0000000008008804       0x34 build/stm32l1xx_rtc.o
+                0x0000000008008804                RTC_WriteProtectionCmd
+ .text.RTC_EnterInitMode
+                0x0000000008008838       0x70 build/stm32l1xx_rtc.o
+                0x0000000008008838                RTC_EnterInitMode
+ .text.RTC_ExitInitMode
+                0x00000000080088a8       0x1c build/stm32l1xx_rtc.o
+                0x00000000080088a8                RTC_ExitInitMode
+ .text.RTC_WaitForSynchro
+                0x00000000080088c4       0x74 build/stm32l1xx_rtc.o
+                0x00000000080088c4                RTC_WaitForSynchro
+ .text.RTC_RefClockCmd
+                0x0000000008008938       0x68 build/stm32l1xx_rtc.o
+                0x0000000008008938                RTC_RefClockCmd
+ .text.RTC_BypassShadowCmd
+                0x00000000080089a0       0x4c build/stm32l1xx_rtc.o
+                0x00000000080089a0                RTC_BypassShadowCmd
+ .text.RTC_SetTime
+                0x00000000080089ec      0x114 build/stm32l1xx_rtc.o
+                0x00000000080089ec                RTC_SetTime
+ .text.RTC_TimeStructInit
+                0x0000000008008b00       0x2a build/stm32l1xx_rtc.o
+                0x0000000008008b00                RTC_TimeStructInit
+ *fill*         0x0000000008008b2a        0x2 
+ .text.RTC_GetTime
+                0x0000000008008b2c       0xa4 build/stm32l1xx_rtc.o
+                0x0000000008008b2c                RTC_GetTime
+ .text.RTC_GetSubSecond
+                0x0000000008008bd0       0x24 build/stm32l1xx_rtc.o
+                0x0000000008008bd0                RTC_GetSubSecond
+ .text.RTC_SetDate
+                0x0000000008008bf4      0x120 build/stm32l1xx_rtc.o
+                0x0000000008008bf4                RTC_SetDate
+ .text.RTC_DateStructInit
+                0x0000000008008d14       0x2a build/stm32l1xx_rtc.o
+                0x0000000008008d14                RTC_DateStructInit
+ *fill*         0x0000000008008d3e        0x2 
+ .text.RTC_GetDate
+                0x0000000008008d40       0x9c build/stm32l1xx_rtc.o
+                0x0000000008008d40                RTC_GetDate
+ .text.RTC_SetAlarm
+                0x0000000008008ddc      0x138 build/stm32l1xx_rtc.o
+                0x0000000008008ddc                RTC_SetAlarm
+ .text.RTC_AlarmStructInit
+                0x0000000008008f14       0x3c build/stm32l1xx_rtc.o
+                0x0000000008008f14                RTC_AlarmStructInit
+ .text.RTC_GetAlarm
+                0x0000000008008f50       0xe4 build/stm32l1xx_rtc.o
+                0x0000000008008f50                RTC_GetAlarm
+ .text.RTC_AlarmCmd
+                0x0000000008009034       0x98 build/stm32l1xx_rtc.o
+                0x0000000008009034                RTC_AlarmCmd
+ .text.RTC_AlarmSubSecondConfig
+                0x00000000080090cc       0x50 build/stm32l1xx_rtc.o
+                0x00000000080090cc                RTC_AlarmSubSecondConfig
+ .text.RTC_GetAlarmSubSecond
+                0x000000000800911c       0x3c build/stm32l1xx_rtc.o
+                0x000000000800911c                RTC_GetAlarmSubSecond
+ .text.RTC_WakeUpClockConfig
+                0x0000000008009158       0x40 build/stm32l1xx_rtc.o
+                0x0000000008009158                RTC_WakeUpClockConfig
+ .text.RTC_SetWakeUpCounter
+                0x0000000008009198       0x30 build/stm32l1xx_rtc.o
+                0x0000000008009198                RTC_SetWakeUpCounter
+ .text.RTC_GetWakeUpCounter
+                0x00000000080091c8       0x18 build/stm32l1xx_rtc.o
+                0x00000000080091c8                RTC_GetWakeUpCounter
+ .text.RTC_WakeUpCmd
+                0x00000000080091e0       0x90 build/stm32l1xx_rtc.o
+                0x00000000080091e0                RTC_WakeUpCmd
+ .text.RTC_DayLightSavingConfig
+                0x0000000008009270       0x48 build/stm32l1xx_rtc.o
+                0x0000000008009270                RTC_DayLightSavingConfig
+ .text.RTC_GetStoreOperation
+                0x00000000080092b8       0x18 build/stm32l1xx_rtc.o
+                0x00000000080092b8                RTC_GetStoreOperation
+ .text.RTC_OutputConfig
+                0x00000000080092d0       0x48 build/stm32l1xx_rtc.o
+                0x00000000080092d0                RTC_OutputConfig
+ .text.RTC_CoarseCalibConfig
+                0x0000000008009318       0x50 build/stm32l1xx_rtc.o
+                0x0000000008009318                RTC_CoarseCalibConfig
+ .text.RTC_CoarseCalibCmd
+                0x0000000008009368       0x68 build/stm32l1xx_rtc.o
+                0x0000000008009368                RTC_CoarseCalibCmd
+ .text.RTC_CalibOutputCmd
+                0x00000000080093d0       0x4c build/stm32l1xx_rtc.o
+                0x00000000080093d0                RTC_CalibOutputCmd
+ .text.RTC_CalibOutputConfig
+                0x000000000800941c       0x40 build/stm32l1xx_rtc.o
+                0x000000000800941c                RTC_CalibOutputConfig
+ .text.RTC_SmoothCalibConfig
+                0x000000000800945c       0x84 build/stm32l1xx_rtc.o
+                0x000000000800945c                RTC_SmoothCalibConfig
+ .text.RTC_TimeStampCmd
+                0x00000000080094e0       0x60 build/stm32l1xx_rtc.o
+                0x00000000080094e0                RTC_TimeStampCmd
+ .text.RTC_GetTimeStamp
+                0x0000000008009540      0x120 build/stm32l1xx_rtc.o
+                0x0000000008009540                RTC_GetTimeStamp
+ .text.RTC_GetTimeStampSubSecond
+                0x0000000008009660       0x14 build/stm32l1xx_rtc.o
+                0x0000000008009660                RTC_GetTimeStampSubSecond
+ .text.RTC_TamperTriggerConfig
+                0x0000000008009674       0x40 build/stm32l1xx_rtc.o
+                0x0000000008009674                RTC_TamperTriggerConfig
+ .text.RTC_TamperCmd
+                0x00000000080096b4       0x3c build/stm32l1xx_rtc.o
+                0x00000000080096b4                RTC_TamperCmd
+ .text.RTC_TamperFilterConfig
+                0x00000000080096f0       0x30 build/stm32l1xx_rtc.o
+                0x00000000080096f0                RTC_TamperFilterConfig
+ .text.RTC_TamperSamplingFreqConfig
+                0x0000000008009720       0x30 build/stm32l1xx_rtc.o
+                0x0000000008009720                RTC_TamperSamplingFreqConfig
+ .text.RTC_TamperPinsPrechargeDuration
+                0x0000000008009750       0x30 build/stm32l1xx_rtc.o
+                0x0000000008009750                RTC_TamperPinsPrechargeDuration
+ .text.RTC_TimeStampOnTamperDetectionCmd
+                0x0000000008009780       0x38 build/stm32l1xx_rtc.o
+                0x0000000008009780                RTC_TimeStampOnTamperDetectionCmd
+ .text.RTC_TamperPullUpCmd
+                0x00000000080097b8       0x38 build/stm32l1xx_rtc.o
+                0x00000000080097b8                RTC_TamperPullUpCmd
+ .text.RTC_WriteBackupRegister
+                0x00000000080097f0       0x34 build/stm32l1xx_rtc.o
+                0x00000000080097f0                RTC_WriteBackupRegister
+ .text.RTC_ReadBackupRegister
+                0x0000000008009824       0x2c build/stm32l1xx_rtc.o
+                0x0000000008009824                RTC_ReadBackupRegister
+ .text.RTC_OutputTypeConfig
+                0x0000000008009850       0x30 build/stm32l1xx_rtc.o
+                0x0000000008009850                RTC_OutputTypeConfig
+ .text.RTC_SynchroShiftConfig
+                0x0000000008009880       0x9c build/stm32l1xx_rtc.o
+                0x0000000008009880                RTC_SynchroShiftConfig
+ .text.RTC_ITConfig
+                0x000000000800991c       0x78 build/stm32l1xx_rtc.o
+                0x000000000800991c                RTC_ITConfig
+ .text.RTC_GetFlagStatus
+                0x0000000008009994       0x44 build/stm32l1xx_rtc.o
+                0x0000000008009994                RTC_GetFlagStatus
+ .text.RTC_ClearFlag
+                0x00000000080099d8       0x34 build/stm32l1xx_rtc.o
+                0x00000000080099d8                RTC_ClearFlag
+ .text.RTC_GetITStatus
+                0x0000000008009a0c       0x70 build/stm32l1xx_rtc.o
+                0x0000000008009a0c                RTC_GetITStatus
+ .text.RTC_ClearITPendingBit
+                0x0000000008009a7c       0x38 build/stm32l1xx_rtc.o
+                0x0000000008009a7c                RTC_ClearITPendingBit
+ .text.RTC_ByteToBcd2
+                0x0000000008009ab4       0x38 build/stm32l1xx_rtc.o
+ .text.RTC_Bcd2ToByte
+                0x0000000008009aec       0x36 build/stm32l1xx_rtc.o
+ .text.SDIO_DeInit
+                0x0000000008009b22       0x1c build/stm32l1xx_sdio.o
+                0x0000000008009b22                SDIO_DeInit
+ *fill*         0x0000000008009b3e        0x2 
+ .text.SDIO_Init
+                0x0000000008009b40       0x5c build/stm32l1xx_sdio.o
+                0x0000000008009b40                SDIO_Init
+ .text.SDIO_StructInit
+                0x0000000008009b9c       0x36 build/stm32l1xx_sdio.o
+                0x0000000008009b9c                SDIO_StructInit
+ *fill*         0x0000000008009bd2        0x2 
+ .text.SDIO_ClockCmd
+                0x0000000008009bd4       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009bd4                SDIO_ClockCmd
+ .text.SDIO_SetPowerState
+                0x0000000008009bf4       0x1c build/stm32l1xx_sdio.o
+                0x0000000008009bf4                SDIO_SetPowerState
+ .text.SDIO_GetPowerState
+                0x0000000008009c10       0x18 build/stm32l1xx_sdio.o
+                0x0000000008009c10                SDIO_GetPowerState
+ .text.SDIO_DMACmd
+                0x0000000008009c28       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009c28                SDIO_DMACmd
+ .text.SDIO_SendCommand
+                0x0000000008009c48       0x58 build/stm32l1xx_sdio.o
+                0x0000000008009c48                SDIO_SendCommand
+ .text.SDIO_CmdStructInit
+                0x0000000008009ca0       0x30 build/stm32l1xx_sdio.o
+                0x0000000008009ca0                SDIO_CmdStructInit
+ .text.SDIO_GetCommandResponse
+                0x0000000008009cd0       0x18 build/stm32l1xx_sdio.o
+                0x0000000008009cd0                SDIO_GetCommandResponse
+ .text.SDIO_GetResponse
+                0x0000000008009ce8       0x28 build/stm32l1xx_sdio.o
+                0x0000000008009ce8                SDIO_GetResponse
+ .text.SDIO_DataConfig
+                0x0000000008009d10       0x5c build/stm32l1xx_sdio.o
+                0x0000000008009d10                SDIO_DataConfig
+ .text.SDIO_DataStructInit
+                0x0000000008009d6c       0x38 build/stm32l1xx_sdio.o
+                0x0000000008009d6c                SDIO_DataStructInit
+ .text.SDIO_GetDataCounter
+                0x0000000008009da4       0x14 build/stm32l1xx_sdio.o
+                0x0000000008009da4                SDIO_GetDataCounter
+ .text.SDIO_ReadData
+                0x0000000008009db8       0x18 build/stm32l1xx_sdio.o
+                0x0000000008009db8                SDIO_ReadData
+ .text.SDIO_WriteData
+                0x0000000008009dd0       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009dd0                SDIO_WriteData
+ .text.SDIO_GetFIFOCount
+                0x0000000008009df0       0x14 build/stm32l1xx_sdio.o
+                0x0000000008009df0                SDIO_GetFIFOCount
+ .text.SDIO_StartSDIOReadWait
+                0x0000000008009e04       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009e04                SDIO_StartSDIOReadWait
+ .text.SDIO_StopSDIOReadWait
+                0x0000000008009e24       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009e24                SDIO_StopSDIOReadWait
+ .text.SDIO_SetSDIOReadWaitMode
+                0x0000000008009e44       0x1c build/stm32l1xx_sdio.o
+                0x0000000008009e44                SDIO_SetSDIOReadWaitMode
+ .text.SDIO_SetSDIOOperation
+                0x0000000008009e60       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009e60                SDIO_SetSDIOOperation
+ .text.SDIO_SendSDIOSuspendCmd
+                0x0000000008009e80       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009e80                SDIO_SendSDIOSuspendCmd
+ .text.SDIO_CommandCompletionCmd
+                0x0000000008009ea0       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009ea0                SDIO_CommandCompletionCmd
+ .text.SDIO_CEATAITCmd
+                0x0000000008009ec0       0x2c build/stm32l1xx_sdio.o
+                0x0000000008009ec0                SDIO_CEATAITCmd
+ .text.SDIO_SendCEATACmd
+                0x0000000008009eec       0x20 build/stm32l1xx_sdio.o
+                0x0000000008009eec                SDIO_SendCEATACmd
+ .text.SDIO_ITConfig
+                0x0000000008009f0c       0x3c build/stm32l1xx_sdio.o
+                0x0000000008009f0c                SDIO_ITConfig
+ .text.SDIO_GetFlagStatus
+                0x0000000008009f48       0x34 build/stm32l1xx_sdio.o
+                0x0000000008009f48                SDIO_GetFlagStatus
+ .text.SDIO_ClearFlag
+                0x0000000008009f7c       0x1c build/stm32l1xx_sdio.o
+                0x0000000008009f7c                SDIO_ClearFlag
+ .text.SDIO_GetITStatus
+                0x0000000008009f98       0x34 build/stm32l1xx_sdio.o
+                0x0000000008009f98                SDIO_GetITStatus
+ .text.SDIO_ClearITPendingBit
+                0x0000000008009fcc       0x1c build/stm32l1xx_sdio.o
+                0x0000000008009fcc                SDIO_ClearITPendingBit
+ .text.SPI_I2S_DeInit
+                0x0000000008009fe8       0x74 build/stm32l1xx_spi.o
+                0x0000000008009fe8                SPI_I2S_DeInit
+ .text.SPI_Init
+                0x000000000800a05c       0x86 build/stm32l1xx_spi.o
+                0x000000000800a05c                SPI_Init
+ *fill*         0x000000000800a0e2        0x2 
+ .text.I2S_Init
+                0x000000000800a0e4      0x14c build/stm32l1xx_spi.o
+                0x000000000800a0e4                I2S_Init
+ .text.SPI_StructInit
+                0x000000000800a230       0x48 build/stm32l1xx_spi.o
+                0x000000000800a230                SPI_StructInit
+ .text.I2S_StructInit
+                0x000000000800a278       0x36 build/stm32l1xx_spi.o
+                0x000000000800a278                I2S_StructInit
+ .text.SPI_Cmd  0x000000000800a2ae       0x3e build/stm32l1xx_spi.o
+                0x000000000800a2ae                SPI_Cmd
+ .text.I2S_Cmd  0x000000000800a2ec       0x3e build/stm32l1xx_spi.o
+                0x000000000800a2ec                I2S_Cmd
+ .text.SPI_DataSizeConfig
+                0x000000000800a32a       0x36 build/stm32l1xx_spi.o
+                0x000000000800a32a                SPI_DataSizeConfig
+ .text.SPI_BiDirectionalLineConfig
+                0x000000000800a360       0x40 build/stm32l1xx_spi.o
+                0x000000000800a360                SPI_BiDirectionalLineConfig
+ .text.SPI_NSSInternalSoftwareConfig
+                0x000000000800a3a0       0x42 build/stm32l1xx_spi.o
+                0x000000000800a3a0                SPI_NSSInternalSoftwareConfig
+ .text.SPI_SSOutputCmd
+                0x000000000800a3e2       0x3e build/stm32l1xx_spi.o
+                0x000000000800a3e2                SPI_SSOutputCmd
+ .text.SPI_I2S_ReceiveData
+                0x000000000800a420       0x18 build/stm32l1xx_spi.o
+                0x000000000800a420                SPI_I2S_ReceiveData
+ .text.SPI_I2S_SendData
+                0x000000000800a438       0x1c build/stm32l1xx_spi.o
+                0x000000000800a438                SPI_I2S_SendData
+ .text.SPI_CalculateCRC
+                0x000000000800a454       0x3e build/stm32l1xx_spi.o
+                0x000000000800a454                SPI_CalculateCRC
+ .text.SPI_TransmitCRC
+                0x000000000800a492       0x22 build/stm32l1xx_spi.o
+                0x000000000800a492                SPI_TransmitCRC
+ .text.SPI_GetCRC
+                0x000000000800a4b4       0x30 build/stm32l1xx_spi.o
+                0x000000000800a4b4                SPI_GetCRC
+ .text.SPI_GetCRCPolynomial
+                0x000000000800a4e4       0x18 build/stm32l1xx_spi.o
+                0x000000000800a4e4                SPI_GetCRCPolynomial
+ .text.SPI_I2S_DMACmd
+                0x000000000800a4fc       0x46 build/stm32l1xx_spi.o
+                0x000000000800a4fc                SPI_I2S_DMACmd
+ .text.SPI_I2S_ITConfig
+                0x000000000800a542       0x60 build/stm32l1xx_spi.o
+                0x000000000800a542                SPI_I2S_ITConfig
+ .text.SPI_I2S_GetFlagStatus
+                0x000000000800a5a2       0x36 build/stm32l1xx_spi.o
+                0x000000000800a5a2                SPI_I2S_GetFlagStatus
+ .text.SPI_I2S_ClearFlag
+                0x000000000800a5d8       0x20 build/stm32l1xx_spi.o
+                0x000000000800a5d8                SPI_I2S_ClearFlag
+ .text.SPI_I2S_GetITStatus
+                0x000000000800a5f8       0x74 build/stm32l1xx_spi.o
+                0x000000000800a5f8                SPI_I2S_GetITStatus
+ .text.SPI_I2S_ClearITPendingBit
+                0x000000000800a66c       0x32 build/stm32l1xx_spi.o
+                0x000000000800a66c                SPI_I2S_ClearITPendingBit
+ .text.SYSCFG_DeInit
+                0x000000000800a69e       0x18 build/stm32l1xx_syscfg.o
+                0x000000000800a69e                SYSCFG_DeInit
+ *fill*         0x000000000800a6b6        0x2 
+ .text.SYSCFG_RIDeInit
+                0x000000000800a6b8       0x3c build/stm32l1xx_syscfg.o
+                0x000000000800a6b8                SYSCFG_RIDeInit
+ .text.SYSCFG_MemoryRemapConfig
+                0x000000000800a6f4       0x20 build/stm32l1xx_syscfg.o
+                0x000000000800a6f4                SYSCFG_MemoryRemapConfig
+ .text.SYSCFG_GetBootMode
+                0x000000000800a714       0x18 build/stm32l1xx_syscfg.o
+                0x000000000800a714                SYSCFG_GetBootMode
+ .text.SYSCFG_USBPuCmd
+                0x000000000800a72c       0x38 build/stm32l1xx_syscfg.o
+                0x000000000800a72c                SYSCFG_USBPuCmd
+ .text.SYSCFG_EXTILineConfig
+                0x000000000800a764       0x80 build/stm32l1xx_syscfg.o
+                0x000000000800a764                SYSCFG_EXTILineConfig
+ .text.SYSCFG_RITIMSelect
+                0x000000000800a7e4       0x38 build/stm32l1xx_syscfg.o
+                0x000000000800a7e4                SYSCFG_RITIMSelect
+ .text.SYSCFG_RITIMInputCaptureConfig
+                0x000000000800a81c       0xa0 build/stm32l1xx_syscfg.o
+                0x000000000800a81c                SYSCFG_RITIMInputCaptureConfig
+ .text.SYSCFG_RIResistorConfig
+                0x000000000800a8bc       0x3c build/stm32l1xx_syscfg.o
+                0x000000000800a8bc                SYSCFG_RIResistorConfig
+ .text.SYSCFG_RIChannelSpeedConfig
+                0x000000000800a8f8       0x3c build/stm32l1xx_syscfg.o
+                0x000000000800a8f8                SYSCFG_RIChannelSpeedConfig
+ .text.SYSCFG_RIIOSwitchConfig
+                0x000000000800a934       0x78 build/stm32l1xx_syscfg.o
+                0x000000000800a934                SYSCFG_RIIOSwitchConfig
+ .text.SYSCFG_RISwitchControlModeCmd
+                0x000000000800a9ac       0x38 build/stm32l1xx_syscfg.o
+                0x000000000800a9ac                SYSCFG_RISwitchControlModeCmd
+ .text.SYSCFG_RIHysteresisConfig
+                0x000000000800a9e4      0x14c build/stm32l1xx_syscfg.o
+                0x000000000800a9e4                SYSCFG_RIHysteresisConfig
+ .text.TIM_DeInit
+                0x000000000800ab30      0x118 build/stm32l1xx_tim.o
+                0x000000000800ab30                TIM_DeInit
+ .text.TIM_TimeBaseInit
+                0x000000000800ac48       0xa4 build/stm32l1xx_tim.o
+                0x000000000800ac48                TIM_TimeBaseInit
+ .text.TIM_TimeBaseStructInit
+                0x000000000800acec       0x2c build/stm32l1xx_tim.o
+                0x000000000800acec                TIM_TimeBaseStructInit
+ .text.TIM_PrescalerConfig
+                0x000000000800ad18       0x26 build/stm32l1xx_tim.o
+                0x000000000800ad18                TIM_PrescalerConfig
+ .text.TIM_CounterModeConfig
+                0x000000000800ad3e       0x36 build/stm32l1xx_tim.o
+                0x000000000800ad3e                TIM_CounterModeConfig
+ .text.TIM_SetCounter
+                0x000000000800ad74       0x1a build/stm32l1xx_tim.o
+                0x000000000800ad74                TIM_SetCounter
+ .text.TIM_SetAutoreload
+                0x000000000800ad8e       0x1a build/stm32l1xx_tim.o
+                0x000000000800ad8e                TIM_SetAutoreload
+ .text.TIM_GetCounter
+                0x000000000800ada8       0x16 build/stm32l1xx_tim.o
+                0x000000000800ada8                TIM_GetCounter
+ .text.TIM_GetPrescaler
+                0x000000000800adbe       0x18 build/stm32l1xx_tim.o
+                0x000000000800adbe                TIM_GetPrescaler
+ .text.TIM_UpdateDisableConfig
+                0x000000000800add6       0x3e build/stm32l1xx_tim.o
+                0x000000000800add6                TIM_UpdateDisableConfig
+ .text.TIM_UpdateRequestConfig
+                0x000000000800ae14       0x3e build/stm32l1xx_tim.o
+                0x000000000800ae14                TIM_UpdateRequestConfig
+ .text.TIM_ARRPreloadConfig
+                0x000000000800ae52       0x3e build/stm32l1xx_tim.o
+                0x000000000800ae52                TIM_ARRPreloadConfig
+ .text.TIM_SelectOnePulseMode
+                0x000000000800ae90       0x36 build/stm32l1xx_tim.o
+                0x000000000800ae90                TIM_SelectOnePulseMode
+ .text.TIM_SetClockDivision
+                0x000000000800aec6       0x36 build/stm32l1xx_tim.o
+                0x000000000800aec6                TIM_SetClockDivision
+ .text.TIM_Cmd  0x000000000800aefc       0x3e build/stm32l1xx_tim.o
+                0x000000000800aefc                TIM_Cmd
+ .text.TIM_OC1Init
+                0x000000000800af3a       0x82 build/stm32l1xx_tim.o
+                0x000000000800af3a                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x000000000800afbc       0x86 build/stm32l1xx_tim.o
+                0x000000000800afbc                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x000000000800b042       0x82 build/stm32l1xx_tim.o
+                0x000000000800b042                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x000000000800b0c4       0x86 build/stm32l1xx_tim.o
+                0x000000000800b0c4                TIM_OC4Init
+ .text.TIM_OCStructInit
+                0x000000000800b14a       0x2a build/stm32l1xx_tim.o
+                0x000000000800b14a                TIM_OCStructInit
+ .text.TIM_SelectOCxM
+                0x000000000800b174       0xb0 build/stm32l1xx_tim.o
+                0x000000000800b174                TIM_SelectOCxM
+ .text.TIM_SetCompare1
+                0x000000000800b224       0x1a build/stm32l1xx_tim.o
+                0x000000000800b224                TIM_SetCompare1
+ .text.TIM_SetCompare2
+                0x000000000800b23e       0x1a build/stm32l1xx_tim.o
+                0x000000000800b23e                TIM_SetCompare2
+ .text.TIM_SetCompare3
+                0x000000000800b258       0x1a build/stm32l1xx_tim.o
+                0x000000000800b258                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x000000000800b272       0x1a build/stm32l1xx_tim.o
+                0x000000000800b272                TIM_SetCompare4
+ .text.TIM_ForcedOC1Config
+                0x000000000800b28c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b28c                TIM_ForcedOC1Config
+ .text.TIM_ForcedOC2Config
+                0x000000000800b2c2       0x3a build/stm32l1xx_tim.o
+                0x000000000800b2c2                TIM_ForcedOC2Config
+ .text.TIM_ForcedOC3Config
+                0x000000000800b2fc       0x36 build/stm32l1xx_tim.o
+                0x000000000800b2fc                TIM_ForcedOC3Config
+ .text.TIM_ForcedOC4Config
+                0x000000000800b332       0x3a build/stm32l1xx_tim.o
+                0x000000000800b332                TIM_ForcedOC4Config
+ .text.TIM_OC1PreloadConfig
+                0x000000000800b36c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b36c                TIM_OC1PreloadConfig
+ .text.TIM_OC2PreloadConfig
+                0x000000000800b3a2       0x3a build/stm32l1xx_tim.o
+                0x000000000800b3a2                TIM_OC2PreloadConfig
+ .text.TIM_OC3PreloadConfig
+                0x000000000800b3dc       0x36 build/stm32l1xx_tim.o
+                0x000000000800b3dc                TIM_OC3PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x000000000800b412       0x3a build/stm32l1xx_tim.o
+                0x000000000800b412                TIM_OC4PreloadConfig
+ .text.TIM_OC1FastConfig
+                0x000000000800b44c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b44c                TIM_OC1FastConfig
+ .text.TIM_OC2FastConfig
+                0x000000000800b482       0x3a build/stm32l1xx_tim.o
+                0x000000000800b482                TIM_OC2FastConfig
+ .text.TIM_OC3FastConfig
+                0x000000000800b4bc       0x36 build/stm32l1xx_tim.o
+                0x000000000800b4bc                TIM_OC3FastConfig
+ .text.TIM_OC4FastConfig
+                0x000000000800b4f2       0x3a build/stm32l1xx_tim.o
+                0x000000000800b4f2                TIM_OC4FastConfig
+ .text.TIM_ClearOC1Ref
+                0x000000000800b52c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b52c                TIM_ClearOC1Ref
+ .text.TIM_ClearOC2Ref
+                0x000000000800b562       0x3a build/stm32l1xx_tim.o
+                0x000000000800b562                TIM_ClearOC2Ref
+ .text.TIM_ClearOC3Ref
+                0x000000000800b59c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b59c                TIM_ClearOC3Ref
+ .text.TIM_ClearOC4Ref
+                0x000000000800b5d2       0x3a build/stm32l1xx_tim.o
+                0x000000000800b5d2                TIM_ClearOC4Ref
+ .text.TIM_OC1PolarityConfig
+                0x000000000800b60c       0x36 build/stm32l1xx_tim.o
+                0x000000000800b60c                TIM_OC1PolarityConfig
+ .text.TIM_OC2PolarityConfig
+                0x000000000800b642       0x3a build/stm32l1xx_tim.o
+                0x000000000800b642                TIM_OC2PolarityConfig
+ .text.TIM_OC3PolarityConfig
+                0x000000000800b67c       0x3a build/stm32l1xx_tim.o
+                0x000000000800b67c                TIM_OC3PolarityConfig
+ .text.TIM_OC4PolarityConfig
+                0x000000000800b6b6       0x3a build/stm32l1xx_tim.o
+                0x000000000800b6b6                TIM_OC4PolarityConfig
+ .text.TIM_SelectOCREFClear
+                0x000000000800b6f0       0x36 build/stm32l1xx_tim.o
+                0x000000000800b6f0                TIM_SelectOCREFClear
+ .text.TIM_CCxCmd
+                0x000000000800b726       0x54 build/stm32l1xx_tim.o
+                0x000000000800b726                TIM_CCxCmd
+ .text.TIM_ICInit
+                0x000000000800b77a       0xa8 build/stm32l1xx_tim.o
+                0x000000000800b77a                TIM_ICInit
+ .text.TIM_ICStructInit
+                0x000000000800b822       0x30 build/stm32l1xx_tim.o
+                0x000000000800b822                TIM_ICStructInit
+ .text.TIM_PWMIConfig
+                0x000000000800b852       0xb8 build/stm32l1xx_tim.o
+                0x000000000800b852                TIM_PWMIConfig
+ .text.TIM_GetCapture1
+                0x000000000800b90a       0x16 build/stm32l1xx_tim.o
+                0x000000000800b90a                TIM_GetCapture1
+ .text.TIM_GetCapture2
+                0x000000000800b920       0x16 build/stm32l1xx_tim.o
+                0x000000000800b920                TIM_GetCapture2
+ .text.TIM_GetCapture3
+                0x000000000800b936       0x16 build/stm32l1xx_tim.o
+                0x000000000800b936                TIM_GetCapture3
+ .text.TIM_GetCapture4
+                0x000000000800b94c       0x16 build/stm32l1xx_tim.o
+                0x000000000800b94c                TIM_GetCapture4
+ .text.TIM_SetIC1Prescaler
+                0x000000000800b962       0x36 build/stm32l1xx_tim.o
+                0x000000000800b962                TIM_SetIC1Prescaler
+ .text.TIM_SetIC2Prescaler
+                0x000000000800b998       0x3a build/stm32l1xx_tim.o
+                0x000000000800b998                TIM_SetIC2Prescaler
+ .text.TIM_SetIC3Prescaler
+                0x000000000800b9d2       0x36 build/stm32l1xx_tim.o
+                0x000000000800b9d2                TIM_SetIC3Prescaler
+ .text.TIM_SetIC4Prescaler
+                0x000000000800ba08       0x3a build/stm32l1xx_tim.o
+                0x000000000800ba08                TIM_SetIC4Prescaler
+ .text.TIM_ITConfig
+                0x000000000800ba42       0x46 build/stm32l1xx_tim.o
+                0x000000000800ba42                TIM_ITConfig
+ .text.TIM_GenerateEvent
+                0x000000000800ba88       0x1c build/stm32l1xx_tim.o
+                0x000000000800ba88                TIM_GenerateEvent
+ .text.TIM_GetFlagStatus
+                0x000000000800baa4       0x36 build/stm32l1xx_tim.o
+                0x000000000800baa4                TIM_GetFlagStatus
+ .text.TIM_ClearFlag
+                0x000000000800bada       0x20 build/stm32l1xx_tim.o
+                0x000000000800bada                TIM_ClearFlag
+ .text.TIM_GetITStatus
+                0x000000000800bafa       0x52 build/stm32l1xx_tim.o
+                0x000000000800bafa                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x000000000800bb4c       0x20 build/stm32l1xx_tim.o
+                0x000000000800bb4c                TIM_ClearITPendingBit
+ .text.TIM_DMAConfig
+                0x000000000800bb6c       0x28 build/stm32l1xx_tim.o
+                0x000000000800bb6c                TIM_DMAConfig
+ .text.TIM_DMACmd
+                0x000000000800bb94       0x46 build/stm32l1xx_tim.o
+                0x000000000800bb94                TIM_DMACmd
+ .text.TIM_SelectCCDMA
+                0x000000000800bbda       0x3e build/stm32l1xx_tim.o
+                0x000000000800bbda                TIM_SelectCCDMA
+ .text.TIM_InternalClockConfig
+                0x000000000800bc18       0x22 build/stm32l1xx_tim.o
+                0x000000000800bc18                TIM_InternalClockConfig
+ .text.TIM_ITRxExternalClockConfig
+                0x000000000800bc3a       0x2e build/stm32l1xx_tim.o
+                0x000000000800bc3a                TIM_ITRxExternalClockConfig
+ .text.TIM_TIxExternalClockConfig
+                0x000000000800bc68       0x5c build/stm32l1xx_tim.o
+                0x000000000800bc68                TIM_TIxExternalClockConfig
+ .text.TIM_ETRClockMode1Config
+                0x000000000800bcc4       0x5e build/stm32l1xx_tim.o
+                0x000000000800bcc4                TIM_ETRClockMode1Config
+ .text.TIM_ETRClockMode2Config
+                0x000000000800bd22       0x3e build/stm32l1xx_tim.o
+                0x000000000800bd22                TIM_ETRClockMode2Config
+ .text.TIM_SelectInputTrigger
+                0x000000000800bd60       0x36 build/stm32l1xx_tim.o
+                0x000000000800bd60                TIM_SelectInputTrigger
+ .text.TIM_SelectOutputTrigger
+                0x000000000800bd96       0x36 build/stm32l1xx_tim.o
+                0x000000000800bd96                TIM_SelectOutputTrigger
+ .text.TIM_SelectSlaveMode
+                0x000000000800bdcc       0x36 build/stm32l1xx_tim.o
+                0x000000000800bdcc                TIM_SelectSlaveMode
+ .text.TIM_SelectMasterSlaveMode
+                0x000000000800be02       0x36 build/stm32l1xx_tim.o
+                0x000000000800be02                TIM_SelectMasterSlaveMode
+ .text.TIM_ETRConfig
+                0x000000000800be38       0x52 build/stm32l1xx_tim.o
+                0x000000000800be38                TIM_ETRConfig
+ .text.TIM_EncoderInterfaceConfig
+                0x000000000800be8a       0x96 build/stm32l1xx_tim.o
+                0x000000000800be8a                TIM_EncoderInterfaceConfig
+ .text.TIM_SelectHallSensor
+                0x000000000800bf20       0x3e build/stm32l1xx_tim.o
+                0x000000000800bf20                TIM_SelectHallSensor
+ .text.TIM_RemapConfig
+                0x000000000800bf5e       0x42 build/stm32l1xx_tim.o
+                0x000000000800bf5e                TIM_RemapConfig
+ .text.TI1_Config
+                0x000000000800bfa0       0x84 build/stm32l1xx_tim.o
+ .text.TI2_Config
+                0x000000000800c024       0x98 build/stm32l1xx_tim.o
+ .text.TI3_Config
+                0x000000000800c0bc       0x8e build/stm32l1xx_tim.o
+ .text.TI4_Config
+                0x000000000800c14a       0x9c build/stm32l1xx_tim.o
+ *fill*         0x000000000800c1e6        0x2 
+ .text.USART_DeInit
+                0x000000000800c1e8       0xb8 build/stm32l1xx_usart.o
+                0x000000000800c1e8                USART_DeInit
+ .text.USART_Init
+                0x000000000800c2a0      0x168 build/stm32l1xx_usart.o
+                0x000000000800c2a0                USART_Init
+ .text.USART_StructInit
+                0x000000000800c408       0x38 build/stm32l1xx_usart.o
+                0x000000000800c408                USART_StructInit
+ .text.USART_ClockInit
+                0x000000000800c440       0x54 build/stm32l1xx_usart.o
+                0x000000000800c440                USART_ClockInit
+ .text.USART_ClockStructInit
+                0x000000000800c494       0x2a build/stm32l1xx_usart.o
+                0x000000000800c494                USART_ClockStructInit
+ .text.USART_Cmd
+                0x000000000800c4be       0x3e build/stm32l1xx_usart.o
+                0x000000000800c4be                USART_Cmd
+ .text.USART_SetPrescaler
+                0x000000000800c4fc       0x38 build/stm32l1xx_usart.o
+                0x000000000800c4fc                USART_SetPrescaler
+ .text.USART_OverSampling8Cmd
+                0x000000000800c534       0x42 build/stm32l1xx_usart.o
+                0x000000000800c534                USART_OverSampling8Cmd
+ .text.USART_OneBitMethodCmd
+                0x000000000800c576       0x3e build/stm32l1xx_usart.o
+                0x000000000800c576                USART_OneBitMethodCmd
+ .text.USART_SendData
+                0x000000000800c5b4       0x22 build/stm32l1xx_usart.o
+                0x000000000800c5b4                USART_SendData
+ .text.USART_ReceiveData
+                0x000000000800c5d6       0x1e build/stm32l1xx_usart.o
+                0x000000000800c5d6                USART_ReceiveData
+ .text.USART_SetAddress
+                0x000000000800c5f4       0x38 build/stm32l1xx_usart.o
+                0x000000000800c5f4                USART_SetAddress
+ .text.USART_ReceiverWakeUpCmd
+                0x000000000800c62c       0x3e build/stm32l1xx_usart.o
+                0x000000000800c62c                USART_ReceiverWakeUpCmd
+ .text.USART_WakeUpConfig
+                0x000000000800c66a       0x36 build/stm32l1xx_usart.o
+                0x000000000800c66a                USART_WakeUpConfig
+ .text.USART_LINBreakDetectLengthConfig
+                0x000000000800c6a0       0x36 build/stm32l1xx_usart.o
+                0x000000000800c6a0                USART_LINBreakDetectLengthConfig
+ .text.USART_LINCmd
+                0x000000000800c6d6       0x3e build/stm32l1xx_usart.o
+                0x000000000800c6d6                USART_LINCmd
+ .text.USART_SendBreak
+                0x000000000800c714       0x22 build/stm32l1xx_usart.o
+                0x000000000800c714                USART_SendBreak
+ .text.USART_HalfDuplexCmd
+                0x000000000800c736       0x3e build/stm32l1xx_usart.o
+                0x000000000800c736                USART_HalfDuplexCmd
+ .text.USART_SetGuardTime
+                0x000000000800c774       0x3a build/stm32l1xx_usart.o
+                0x000000000800c774                USART_SetGuardTime
+ .text.USART_SmartCardCmd
+                0x000000000800c7ae       0x3e build/stm32l1xx_usart.o
+                0x000000000800c7ae                USART_SmartCardCmd
+ .text.USART_SmartCardNACKCmd
+                0x000000000800c7ec       0x3e build/stm32l1xx_usart.o
+                0x000000000800c7ec                USART_SmartCardNACKCmd
+ .text.USART_IrDAConfig
+                0x000000000800c82a       0x36 build/stm32l1xx_usart.o
+                0x000000000800c82a                USART_IrDAConfig
+ .text.USART_IrDACmd
+                0x000000000800c860       0x3e build/stm32l1xx_usart.o
+                0x000000000800c860                USART_IrDACmd
+ .text.USART_DMACmd
+                0x000000000800c89e       0x46 build/stm32l1xx_usart.o
+                0x000000000800c89e                USART_DMACmd
+ .text.USART_ITConfig
+                0x000000000800c8e4       0x8e build/stm32l1xx_usart.o
+                0x000000000800c8e4                USART_ITConfig
+ .text.USART_GetFlagStatus
+                0x000000000800c972       0x36 build/stm32l1xx_usart.o
+                0x000000000800c972                USART_GetFlagStatus
+ .text.USART_ClearFlag
+                0x000000000800c9a8       0x20 build/stm32l1xx_usart.o
+                0x000000000800c9a8                USART_ClearFlag
+ .text.USART_GetITStatus
+                0x000000000800c9c8       0xb4 build/stm32l1xx_usart.o
+                0x000000000800c9c8                USART_GetITStatus
+ .text.USART_ClearITPendingBit
+                0x000000000800ca7c       0x38 build/stm32l1xx_usart.o
+                0x000000000800ca7c                USART_ClearITPendingBit
+ .text.WWDG_DeInit
+                0x000000000800cab4       0x1c build/stm32l1xx_wwdg.o
+                0x000000000800cab4                WWDG_DeInit
+ .text.WWDG_SetPrescaler
+                0x000000000800cad0       0x34 build/stm32l1xx_wwdg.o
+                0x000000000800cad0                WWDG_SetPrescaler
+ .text.WWDG_SetWindowValue
+                0x000000000800cb04       0x38 build/stm32l1xx_wwdg.o
+                0x000000000800cb04                WWDG_SetWindowValue
+ .text.WWDG_EnableIT
+                0x000000000800cb3c       0x18 build/stm32l1xx_wwdg.o
+                0x000000000800cb3c                WWDG_EnableIT
+ .text.WWDG_SetCounter
+                0x000000000800cb54       0x24 build/stm32l1xx_wwdg.o
+                0x000000000800cb54                WWDG_SetCounter
+ .text.WWDG_Enable
+                0x000000000800cb78       0x24 build/stm32l1xx_wwdg.o
+                0x000000000800cb78                WWDG_Enable
+ .text.WWDG_GetFlagStatus
+                0x000000000800cb9c       0x2c build/stm32l1xx_wwdg.o
+                0x000000000800cb9c                WWDG_GetFlagStatus
+ .text.WWDG_ClearFlag
+                0x000000000800cbc8       0x18 build/stm32l1xx_wwdg.o
+                0x000000000800cbc8                WWDG_ClearFlag
+ .text.NMI_Handler
+                0x000000000800cbe0        0xc build/stm32l1xx_it.o
+                0x000000000800cbe0                NMI_Handler
+ .text.HardFault_Handler
+                0x000000000800cbec        0x6 build/stm32l1xx_it.o
+                0x000000000800cbec                HardFault_Handler
+ .text.MemManage_Handler
+                0x000000000800cbf2        0x6 build/stm32l1xx_it.o
+                0x000000000800cbf2                MemManage_Handler
+ .text.BusFault_Handler
+                0x000000000800cbf8        0x6 build/stm32l1xx_it.o
+                0x000000000800cbf8                BusFault_Handler
+ .text.UsageFault_Handler
+                0x000000000800cbfe        0x6 build/stm32l1xx_it.o
+                0x000000000800cbfe                UsageFault_Handler
+ .text.SVC_Handler
+                0x000000000800cc04        0xc build/stm32l1xx_it.o
+                0x000000000800cc04                SVC_Handler
+ .text.DebugMon_Handler
+                0x000000000800cc10        0xc build/stm32l1xx_it.o
+                0x000000000800cc10                DebugMon_Handler
+ .text.PendSV_Handler
+                0x000000000800cc1c        0xc build/stm32l1xx_it.o
+                0x000000000800cc1c                PendSV_Handler
+ .text.SysTick_Handler
+                0x000000000800cc28        0xc build/stm32l1xx_it.o
+                0x000000000800cc28                SysTick_Handler
+ .text.USART2_IRQHandler
+                0x000000000800cc34        0xc build/stm32l1xx_it.o
+                0x000000000800cc34                USART2_IRQHandler
+ .text.main     0x000000000800cc40       0xc4 build/main.o
+                0x000000000800cc40                main
+ .text.modbus_slave_init
+                0x000000000800cd04      0x114 build/modbus_slave.o
+                0x000000000800cd04                modbus_slave_init
+ .text.update_sensor_Registers
+                0x000000000800ce18       0x40 build/modbus_slave.o
+                0x000000000800ce18                update_sensor_Registers
+ .text.update_Id_Registers
+                0x000000000800ce58       0x64 build/modbus_slave.o
+                0x000000000800ce58                update_Id_Registers
+ .text.update_Baudrate_Registers
+                0x000000000800cebc       0x58 build/modbus_slave.o
+                0x000000000800cebc                update_Baudrate_Registers
+ .text.sendData
+                0x000000000800cf14       0x58 build/modbus_slave.o
+                0x000000000800cf14                sendData
+ .text.modbusException
+                0x000000000800cf6c       0x50 build/modbus_slave.o
+                0x000000000800cf6c                modbusException
+ .text.readHoldingRegs
+                0x000000000800cfbc      0x10c build/modbus_slave.o
+                0x000000000800cfbc                readHoldingRegs
+ .text.readInputRegs
+                0x000000000800d0c8      0x10c build/modbus_slave.o
+                0x000000000800d0c8                readInputRegs
+ .text.writeSingerRegs
+                0x000000000800d1d4       0xdc build/modbus_slave.o
+                0x000000000800d1d4                writeSingerRegs
+ .text.crc16    0x000000000800d2b0       0x6c build/modbus_crc.o
+                0x000000000800d2b0                crc16
+ .text.Reset_Handler
+                0x000000000800d31c       0x6c build/startup_STM32L151MD.o
+                0x000000000800d31c                Reset_Handler
+ .text.Default_Handler
+                0x000000000800d388        0x6 build/startup_STM32L151MD.o
+                0x000000000800d388                Default_Handler
+ *fill*         0x000000000800d38e        0x2 
+ .text.srand    0x000000000800d390       0x10 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+                0x000000000800d390                srand
+ .text.rand     0x000000000800d3a0       0x38 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+                0x000000000800d3a0                rand
+ .text.strlen   0x000000000800d3d8       0x5c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+                0x000000000800d3d8                strlen
+ *(.rodata)
+ .rodata        0x000000000800d434       0x24 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x000000000800d458        0xd build/xprintf.o
+ *fill*         0x000000000800d465        0x3 
+ .rodata        0x000000000800d468       0xaa build/debug.o
+ *fill*         0x000000000800d512        0x2 
+ .rodata        0x000000000800d514       0x6a build/main.o
+ *fill*         0x000000000800d57e        0x2 
+ .rodata        0x000000000800d580      0x121 build/modbus_slave.o
+ *fill*         0x000000000800d6a1        0x3 
+ .rodata        0x000000000800d6a4       0x24 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x000000000800d6c8        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                0x000000000800d6c8                _global_impure_ptr
+ .rodata.Input_Registers_Database
+                0x000000000800d6cc       0x64 build/rs485.o
+ .rodata.Input_Registers_Database
+                0x000000000800d730       0x64 build/stm32l1xx_it.o
+ .rodata.Input_Registers_Database
+                0x000000000800d794       0x64 build/main.o
+ .rodata.Input_Registers_Database
+                0x000000000800d7f8       0x64 build/modbus_slave.o
+ .rodata.table_crc_hi
+                0x000000000800d85c      0x100 build/modbus_crc.o
+ .rodata.table_crc_lo
+                0x000000000800d95c      0x100 build/modbus_crc.o
+ *(.glue_7)
+ .glue_7        0x000000000800da5c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800da5c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000000000800da5c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x000000000800da5c        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ *(.init)
+ .init          0x000000000800da60        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x000000000800da60                _init
+ .init          0x000000000800da64        0x8 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x000000000800da6c        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x000000000800da6c                _fini
+ .fini          0x000000000800da70        0x8 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x000000000800da78                . = ALIGN (0x4)
+                0x000000000800da78                _etext = .
+
+.vfp11_veneer   0x000000000800da78        0x0
+ .vfp11_veneer  0x000000000800da78        0x0 linker stubs
+
+.v4_bx          0x000000000800da78        0x0
+ .v4_bx         0x000000000800da78        0x0 linker stubs
+
+.iplt           0x000000000800da78        0x0
+ .iplt          0x000000000800da78        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.RamFunc        0x000000000800da78      0x47c
+ .RamFunc       0x000000000800da78      0x47c build/stm32l1xx_flash_ramfunc.o
+                0x000000000800da78                FLASH_RUNPowerDownCmd
+                0x000000000800dadc                FLASH_EraseParallelPage
+                0x000000000800db6c                FLASH_ProgramHalfPage
+                0x000000000800dc1c                FLASH_ProgramParallelHalfPage
+                0x000000000800dd0c                DATA_EEPROM_EraseDoubleWord
+                0x000000000800dda8                DATA_EEPROM_ProgramDoubleWord
+
+.ARM.extab      0x000000000800def4        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x000000000800def4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x000000000800def4        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+
+.ARM            0x000000000800def4        0x8
+                0x000000000800def4                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x000000000800def4        0x8 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x000000000800defc        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x000000000800defc                __exidx_end = .
+
+.rel.dyn        0x000000000800defc        0x0
+ .rel.iplt      0x000000000800defc        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.preinit_array  0x000000000800defc        0x0
+                0x000000000800defc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800defc                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000800defc        0x8
+                0x000000000800defc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x000000000800defc        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x000000000800df00        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000000800df04                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000800df04        0x4
+                0x000000000800df04                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x000000000800df04        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x000000000800df08                PROVIDE (__fini_array_end = .)
+                0x000000000800df08                _sidata = .
+
+.data           0x0000000020000000      0x600 load address 0x000000000800df08
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000020000000        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .data          0x0000000020000004        0x0 build/system_stm32l1xx.o
+ .data          0x0000000020000004        0x0 build/eeprom.o
+ .data          0x0000000020000004        0x0 build/rs485.o
+ .data          0x0000000020000004        0x0 build/xprintf.o
+ .data          0x0000000020000004        0x0 build/debug.o
+ .data          0x0000000020000004        0x0 build/led_life.o
+ .data          0x0000000020000004        0x0 build/misc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_adc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_aes_util.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_aes.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_comp.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_crc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_dac.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_dbgmcu.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_dma.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_exti.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_flash_ramfunc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_flash.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_fsmc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_gpio.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_i2c.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_iwdg.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_lcd.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_opamp.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_pwr.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_rcc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_rtc.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_sdio.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_spi.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_syscfg.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_tim.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_usart.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_wwdg.o
+ .data          0x0000000020000004        0x0 build/stm32l1xx_it.o
+ .data          0x0000000020000004        0x0 build/main.o
+ .data          0x0000000020000004        0x0 build/modbus_slave.o
+ .data          0x0000000020000004        0x0 build/modbus_crc.o
+ .data          0x0000000020000004        0x0 build/startup_STM32L151MD.o
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000020000004        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x0000000020000004        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                0x0000000020000004                _impure_ptr
+ .data.impure_data
+                0x0000000020000008      0x428 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+ .data.SystemCoreClock
+                0x0000000020000434        0x4 build/system_stm32l1xx.o
+                0x0000000020000434                SystemCoreClock
+ .data.PLLMulTable
+                0x0000000020000438        0x9 build/system_stm32l1xx.o
+                0x0000000020000438                PLLMulTable
+ *fill*         0x0000000020000441        0x3 
+ .data.AHBPrescTable
+                0x0000000020000444       0x10 build/system_stm32l1xx.o
+                0x0000000020000444                AHBPrescTable
+ .data.Holding_Registers_Database
+                0x0000000020000454       0x64 build/rs485.o
+ .data.PLLMulTable
+                0x00000000200004b8        0x9 build/stm32l1xx_rcc.o
+ *fill*         0x00000000200004c1        0x3 
+ .data.APBAHBPrescTable
+                0x00000000200004c4       0x10 build/stm32l1xx_rcc.o
+ .data.Holding_Registers_Database
+                0x00000000200004d4       0x64 build/stm32l1xx_it.o
+ .data.Holding_Registers_Database
+                0x0000000020000538       0x64 build/main.o
+ .data.Holding_Registers_Database
+                0x000000002000059c       0x64 build/modbus_slave.o
+                0x0000000020000600                . = ALIGN (0x4)
+                0x0000000020000600                _edata = .
+
+.igot.plt       0x0000000020000600        0x0 load address 0x000000000800e508
+ .igot.plt      0x0000000020000600        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000600                . = ALIGN (0x4)
+
+.bss            0x0000000020000600       0x80 load address 0x000000000800e508
+                0x0000000020000600                _sbss = .
+                0x0000000020000600                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000600        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000020000600       0x1c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .bss           0x000000002000061c        0x0 build/system_stm32l1xx.o
+ .bss           0x000000002000061c        0x0 build/eeprom.o
+ .bss           0x000000002000061c        0x0 build/rs485.o
+ .bss           0x000000002000061c        0x0 build/xprintf.o
+ .bss           0x000000002000061c        0x0 build/debug.o
+ .bss           0x000000002000061c        0x0 build/led_life.o
+ .bss           0x000000002000061c        0x0 build/misc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_adc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_aes_util.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_aes.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_comp.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_crc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_dac.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_dbgmcu.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_dma.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_exti.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_flash_ramfunc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_flash.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_fsmc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_gpio.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_i2c.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_iwdg.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_lcd.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_opamp.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_pwr.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_rcc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_rtc.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_sdio.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_spi.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_syscfg.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_tim.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_usart.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_wwdg.o
+ .bss           0x000000002000061c        0x0 build/stm32l1xx_it.o
+ .bss           0x000000002000061c        0x0 build/main.o
+ .bss           0x000000002000061c        0x0 build/modbus_slave.o
+ .bss           0x000000002000061c        0x0 build/modbus_crc.o
+ .bss           0x000000002000061c        0x0 build/startup_STM32L151MD.o
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x000000002000061c        0x0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.bss*)
+ .bss.__lock___arc4random_mutex
+                0x000000002000061c        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x000000002000061c                __lock___arc4random_mutex
+ *fill*         0x000000002000061d        0x3 
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000020000620        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000620                __lock___at_quick_exit_mutex
+ *fill*         0x0000000020000621        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000020000624        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000624                __lock___atexit_recursive_mutex
+ *fill*         0x0000000020000625        0x3 
+ .bss.__lock___dd_hash_mutex
+                0x0000000020000628        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000628                __lock___dd_hash_mutex
+ *fill*         0x0000000020000629        0x3 
+ .bss.__lock___env_recursive_mutex
+                0x000000002000062c        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x000000002000062c                __lock___env_recursive_mutex
+ *fill*         0x000000002000062d        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000020000630        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000630                __lock___malloc_recursive_mutex
+ *fill*         0x0000000020000631        0x3 
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000020000634        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000634                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000635        0x3 
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000020000638        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000638                __lock___sinit_recursive_mutex
+ *fill*         0x0000000020000639        0x3 
+ .bss.__lock___tz_mutex
+                0x000000002000063c        0x1 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x000000002000063c                __lock___tz_mutex
+ *fill*         0x000000002000063d        0x3 
+ .bss.RxData    0x0000000020000640        0xa build/rs485.o
+                0x0000000020000640                RxData
+ *fill*         0x000000002000064a        0x2 
+ .bss.TxData    0x000000002000064c       0x1e build/rs485.o
+                0x000000002000064c                TxData
+ .bss.countRx   0x000000002000066a        0x1 build/rs485.o
+                0x000000002000066a                countRx
+ .bss.rx_index  0x000000002000066b        0x1 build/rs485.o
+                0x000000002000066b                rx_index
+ .bss.xfunc_output
+                0x000000002000066c        0x4 build/xprintf.o
+                0x000000002000066c                xfunc_output
+ .bss.strptr    0x0000000020000670        0x4 build/xprintf.o
+ .bss.TimingDelay
+                0x0000000020000674        0x4 build/debug.o
+ .bss.SLAVE_ID  0x0000000020000678        0x2 build/modbus_slave.o
+                0x0000000020000678                SLAVE_ID
+ *fill*         0x000000002000067a        0x2 
+ .bss.BAUND_RATE
+                0x000000002000067c        0x4 build/modbus_slave.o
+                0x000000002000067c                BAUND_RATE
+ *(COMMON)
+                0x0000000020000680                . = ALIGN (0x4)
+                0x0000000020000680                _ebss = .
+                0x0000000020000680                __bss_end__ = _ebss
+                [!provide]                        PROVIDE (end = _ebss)
+                [!provide]                        PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x0000000020000680       0x80 load address 0x000000000800e588
+                0x0000000020000680                . = ALIGN (0x4)
+                0x0000000020000680                . = (. + _Min_Heap_Size)
+                0x0000000020000700                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000680       0x80 
+                0x0000000020000700                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000092       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000000bf       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000000ec       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000119       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000146       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000173       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000001a0       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000001cd       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000001fa       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000227       0x2d build/system_stm32l1xx.o
+ .ARM.attributes
+                0x0000000000000254       0x2d build/eeprom.o
+ .ARM.attributes
+                0x0000000000000281       0x2d build/rs485.o
+ .ARM.attributes
+                0x00000000000002ae       0x2d build/xprintf.o
+ .ARM.attributes
+                0x00000000000002db       0x2d build/debug.o
+ .ARM.attributes
+                0x0000000000000308       0x2d build/led_life.o
+ .ARM.attributes
+                0x0000000000000335       0x2d build/misc.o
+ .ARM.attributes
+                0x0000000000000362       0x2d build/stm32l1xx_adc.o
+ .ARM.attributes
+                0x000000000000038f       0x2d build/stm32l1xx_aes_util.o
+ .ARM.attributes
+                0x00000000000003bc       0x2d build/stm32l1xx_aes.o
+ .ARM.attributes
+                0x00000000000003e9       0x2d build/stm32l1xx_comp.o
+ .ARM.attributes
+                0x0000000000000416       0x2d build/stm32l1xx_crc.o
+ .ARM.attributes
+                0x0000000000000443       0x2d build/stm32l1xx_dac.o
+ .ARM.attributes
+                0x0000000000000470       0x2d build/stm32l1xx_dbgmcu.o
+ .ARM.attributes
+                0x000000000000049d       0x2d build/stm32l1xx_dma.o
+ .ARM.attributes
+                0x00000000000004ca       0x2d build/stm32l1xx_exti.o
+ .ARM.attributes
+                0x00000000000004f7       0x2d build/stm32l1xx_flash_ramfunc.o
+ .ARM.attributes
+                0x0000000000000524       0x2d build/stm32l1xx_flash.o
+ .ARM.attributes
+                0x0000000000000551       0x2d build/stm32l1xx_fsmc.o
+ .ARM.attributes
+                0x000000000000057e       0x2d build/stm32l1xx_gpio.o
+ .ARM.attributes
+                0x00000000000005ab       0x2d build/stm32l1xx_i2c.o
+ .ARM.attributes
+                0x00000000000005d8       0x2d build/stm32l1xx_iwdg.o
+ .ARM.attributes
+                0x0000000000000605       0x2d build/stm32l1xx_lcd.o
+ .ARM.attributes
+                0x0000000000000632       0x2d build/stm32l1xx_opamp.o
+ .ARM.attributes
+                0x000000000000065f       0x2d build/stm32l1xx_pwr.o
+ .ARM.attributes
+                0x000000000000068c       0x2d build/stm32l1xx_rcc.o
+ .ARM.attributes
+                0x00000000000006b9       0x2d build/stm32l1xx_rtc.o
+ .ARM.attributes
+                0x00000000000006e6       0x2d build/stm32l1xx_sdio.o
+ .ARM.attributes
+                0x0000000000000713       0x2d build/stm32l1xx_spi.o
+ .ARM.attributes
+                0x0000000000000740       0x2d build/stm32l1xx_syscfg.o
+ .ARM.attributes
+                0x000000000000076d       0x2d build/stm32l1xx_tim.o
+ .ARM.attributes
+                0x000000000000079a       0x2d build/stm32l1xx_usart.o
+ .ARM.attributes
+                0x00000000000007c7       0x2d build/stm32l1xx_wwdg.o
+ .ARM.attributes
+                0x00000000000007f4       0x2d build/stm32l1xx_it.o
+ .ARM.attributes
+                0x0000000000000821       0x2d build/main.o
+ .ARM.attributes
+                0x000000000000084e       0x2d build/modbus_slave.o
+ .ARM.attributes
+                0x000000000000087b       0x2d build/modbus_crc.o
+ .ARM.attributes
+                0x00000000000008a8       0x2d build/startup_STM32L151MD.o
+ .ARM.attributes
+                0x00000000000008d5       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000000008f2       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000000000090f       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000000000092c       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000949       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000000000000966       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000983       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000009a0       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000000009cd       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000009ea       0x1b /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000a05       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x0000000000000a32       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000000000000a5f       0x2d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000a8c       0x1d /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(build/stm32_executable.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+
+.debug_frame    0x0000000000000000     0x628c
+ .debug_frame   0x0000000000000000       0x28 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000028       0x2c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000054       0x2c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000080       0x5c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000000dc       0x20 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000000fc       0x34 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000130       0xb0 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000000001e0       0x34 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000214       0x20 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000234       0x7c build/system_stm32l1xx.o
+ .debug_frame   0x00000000000002b0       0x7c build/eeprom.o
+ .debug_frame   0x000000000000032c       0x7c build/rs485.o
+ .debug_frame   0x00000000000003a8      0x1f4 build/xprintf.o
+ .debug_frame   0x000000000000059c       0xc8 build/debug.o
+ .debug_frame   0x0000000000000664       0x50 build/led_life.o
+ .debug_frame   0x00000000000006b4       0xd8 build/misc.o
+ .debug_frame   0x000000000000078c      0x5fc build/stm32l1xx_adc.o
+ .debug_frame   0x0000000000000d88      0x100 build/stm32l1xx_aes_util.o
+ .debug_frame   0x0000000000000e88      0x2cc build/stm32l1xx_aes.o
+ .debug_frame   0x0000000000001154      0x120 build/stm32l1xx_comp.o
+ .debug_frame   0x0000000000001274       0xe8 build/stm32l1xx_crc.o
+ .debug_frame   0x000000000000135c      0x2ac build/stm32l1xx_dac.o
+ .debug_frame   0x0000000000001608       0xc8 build/stm32l1xx_dbgmcu.o
+ .debug_frame   0x00000000000016d0      0x1c8 build/stm32l1xx_dma.o
+ .debug_frame   0x0000000000001898      0x148 build/stm32l1xx_exti.o
+ .debug_frame   0x00000000000019e0      0x138 build/stm32l1xx_flash_ramfunc.o
+ .debug_frame   0x0000000000001b18      0x69c build/stm32l1xx_flash.o
+ .debug_frame   0x00000000000021b4       0xb0 build/stm32l1xx_fsmc.o
+ .debug_frame   0x0000000000002264      0x23c build/stm32l1xx_gpio.o
+ .debug_frame   0x00000000000024a0      0x530 build/stm32l1xx_i2c.o
+ .debug_frame   0x00000000000029d0       0xf0 build/stm32l1xx_iwdg.o
+ .debug_frame   0x0000000000002ac0      0x2c8 build/stm32l1xx_lcd.o
+ .debug_frame   0x0000000000002d88      0x170 build/stm32l1xx_opamp.o
+ .debug_frame   0x0000000000002ef8      0x22c build/stm32l1xx_pwr.o
+ .debug_frame   0x0000000000003124      0x5e4 build/stm32l1xx_rcc.o
+ .debug_frame   0x0000000000003708      0x860 build/stm32l1xx_rtc.o
+ .debug_frame   0x0000000000003f68      0x48c build/stm32l1xx_sdio.o
+ .debug_frame   0x00000000000043f4      0x3a0 build/stm32l1xx_spi.o
+ .debug_frame   0x0000000000004794      0x1fc build/stm32l1xx_syscfg.o
+ .debug_frame   0x0000000000004990      0xd14 build/stm32l1xx_tim.o
+ .debug_frame   0x00000000000056a4      0x490 build/stm32l1xx_usart.o
+ .debug_frame   0x0000000000005b34      0x134 build/stm32l1xx_wwdg.o
+ .debug_frame   0x0000000000005c68      0x128 build/stm32l1xx_it.o
+ .debug_frame   0x0000000000005d90       0x30 build/main.o
+ .debug_frame   0x0000000000005dc0      0x158 build/modbus_slave.o
+ .debug_frame   0x0000000000005f18       0x38 build/modbus_crc.o
+ .debug_frame   0x0000000000005f50       0x4c build/startup_STM32L151MD.o
+ .debug_frame   0x0000000000005f9c       0x30 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000005fcc       0xac /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000006078       0x50 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000000060c8       0xc4 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000000000000618c       0x20 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000000061ac       0x24 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000000061d0       0x2c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000061fc       0x34 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000006230       0x3c /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-rand.o)
+ .debug_frame   0x000000000000626c       0x20 /home/vietdung/workspace/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+
+.debug_info     0x0000000000000000     0xf4b2
+ .debug_info    0x0000000000000000      0x57a build/system_stm32l1xx.o
+ .debug_info    0x000000000000057a      0x1ec build/eeprom.o
+ .debug_info    0x0000000000000766      0x744 build/rs485.o
+ .debug_info    0x0000000000000eaa      0x4a7 build/xprintf.o
+ .debug_info    0x0000000000001351      0xa14 build/debug.o
+ .debug_info    0x0000000000001d65      0x2d2 build/led_life.o
+ .debug_info    0x0000000000002037      0x544 build/misc.o
+ .debug_info    0x000000000000257b      0xd21 build/stm32l1xx_adc.o
+ .debug_info    0x000000000000329c      0xcc7 build/stm32l1xx_aes_util.o
+ .debug_info    0x0000000000003f63      0x59d build/stm32l1xx_aes.o
+ .debug_info    0x0000000000004500      0x253 build/stm32l1xx_comp.o
+ .debug_info    0x0000000000004753      0x1d2 build/stm32l1xx_crc.o
+ .debug_info    0x0000000000004925      0x652 build/stm32l1xx_dac.o
+ .debug_info    0x0000000000004f77      0x1c0 build/stm32l1xx_dbgmcu.o
+ .debug_info    0x0000000000005137      0x477 build/stm32l1xx_dma.o
+ .debug_info    0x00000000000055ae      0x341 build/stm32l1xx_exti.o
+ .debug_info    0x00000000000058ef      0x46a build/stm32l1xx_flash_ramfunc.o
+ .debug_info    0x0000000000005d59      0xee4 build/stm32l1xx_flash.o
+ .debug_info    0x0000000000006c3d      0x318 build/stm32l1xx_fsmc.o
+ .debug_info    0x0000000000006f55      0x65e build/stm32l1xx_gpio.o
+ .debug_info    0x00000000000075b3      0xb55 build/stm32l1xx_i2c.o
+ .debug_info    0x0000000000008108      0x1d6 build/stm32l1xx_iwdg.o
+ .debug_info    0x00000000000082de      0x4c8 build/stm32l1xx_lcd.o
+ .debug_info    0x00000000000087a6      0x30c build/stm32l1xx_opamp.o
+ .debug_info    0x0000000000008ab2      0x5fd build/stm32l1xx_pwr.o
+ .debug_info    0x00000000000090af      0xa68 build/stm32l1xx_rcc.o
+ .debug_info    0x0000000000009b17     0x11fd build/stm32l1xx_rtc.o
+ .debug_info    0x000000000000ad14      0x82f build/stm32l1xx_sdio.o
+ .debug_info    0x000000000000b543      0x929 build/stm32l1xx_spi.o
+ .debug_info    0x000000000000be6c      0x4f6 build/stm32l1xx_syscfg.o
+ .debug_info    0x000000000000c362     0x1aa8 build/stm32l1xx_tim.o
+ .debug_info    0x000000000000de0a      0xa0e build/stm32l1xx_usart.o
+ .debug_info    0x000000000000e818      0x227 build/stm32l1xx_wwdg.o
+ .debug_info    0x000000000000ea3f      0x181 build/stm32l1xx_it.o
+ .debug_info    0x000000000000ebc0      0x148 build/main.o
+ .debug_info    0x000000000000ed08      0x51b build/modbus_slave.o
+ .debug_info    0x000000000000f223      0x12c build/modbus_crc.o
+ .debug_info    0x000000000000f34f      0x163 build/startup_STM32L151MD.o
+
+.debug_abbrev   0x0000000000000000     0x3791
+ .debug_abbrev  0x0000000000000000      0x176 build/system_stm32l1xx.o
+ .debug_abbrev  0x0000000000000176       0xcb build/eeprom.o
+ .debug_abbrev  0x0000000000000241      0x1b9 build/rs485.o
+ .debug_abbrev  0x00000000000003fa      0x1b4 build/xprintf.o
+ .debug_abbrev  0x00000000000005ae      0x23d build/debug.o
+ .debug_abbrev  0x00000000000007eb      0x122 build/led_life.o
+ .debug_abbrev  0x000000000000090d      0x170 build/misc.o
+ .debug_abbrev  0x0000000000000a7d      0x193 build/stm32l1xx_adc.o
+ .debug_abbrev  0x0000000000000c10      0x1d4 build/stm32l1xx_aes_util.o
+ .debug_abbrev  0x0000000000000de4      0x19e build/stm32l1xx_aes.o
+ .debug_abbrev  0x0000000000000f82      0x160 build/stm32l1xx_comp.o
+ .debug_abbrev  0x00000000000010e2      0x11b build/stm32l1xx_crc.o
+ .debug_abbrev  0x00000000000011fd      0x193 build/stm32l1xx_dac.o
+ .debug_abbrev  0x0000000000001390       0xe5 build/stm32l1xx_dbgmcu.o
+ .debug_abbrev  0x0000000000001475      0x182 build/stm32l1xx_dma.o
+ .debug_abbrev  0x00000000000015f7      0x1c4 build/stm32l1xx_exti.o
+ .debug_abbrev  0x00000000000017bb      0x1a5 build/stm32l1xx_flash_ramfunc.o
+ .debug_abbrev  0x0000000000001960      0x1fd build/stm32l1xx_flash.o
+ .debug_abbrev  0x0000000000001b5d      0x13a build/stm32l1xx_fsmc.o
+ .debug_abbrev  0x0000000000001c97      0x1c0 build/stm32l1xx_gpio.o
+ .debug_abbrev  0x0000000000001e57      0x193 build/stm32l1xx_i2c.o
+ .debug_abbrev  0x0000000000001fea      0x124 build/stm32l1xx_iwdg.o
+ .debug_abbrev  0x000000000000210e      0x1ca build/stm32l1xx_lcd.o
+ .debug_abbrev  0x00000000000022d8      0x148 build/stm32l1xx_opamp.o
+ .debug_abbrev  0x0000000000002420      0x1b6 build/stm32l1xx_pwr.o
+ .debug_abbrev  0x00000000000025d6      0x200 build/stm32l1xx_rcc.o
+ .debug_abbrev  0x00000000000027d6      0x1e3 build/stm32l1xx_rtc.o
+ .debug_abbrev  0x00000000000029b9      0x18a build/stm32l1xx_sdio.o
+ .debug_abbrev  0x0000000000002b43      0x1af build/stm32l1xx_spi.o
+ .debug_abbrev  0x0000000000002cf2      0x18b build/stm32l1xx_syscfg.o
+ .debug_abbrev  0x0000000000002e7d      0x1c9 build/stm32l1xx_tim.o
+ .debug_abbrev  0x0000000000003046      0x182 build/stm32l1xx_usart.o
+ .debug_abbrev  0x00000000000031c8      0x14f build/stm32l1xx_wwdg.o
+ .debug_abbrev  0x0000000000003317       0x97 build/stm32l1xx_it.o
+ .debug_abbrev  0x00000000000033ae       0x99 build/main.o
+ .debug_abbrev  0x0000000000003447      0x1aa build/modbus_slave.o
+ .debug_abbrev  0x00000000000035f1       0xac build/modbus_crc.o
+ .debug_abbrev  0x000000000000369d       0xf4 build/startup_STM32L151MD.o
+
+.debug_aranges  0x0000000000000000     0x1670
+ .debug_aranges
+                0x0000000000000000       0x30 build/system_stm32l1xx.o
+ .debug_aranges
+                0x0000000000000030       0x30 build/eeprom.o
+ .debug_aranges
+                0x0000000000000060       0x30 build/rs485.o
+ .debug_aranges
+                0x0000000000000090       0x70 build/xprintf.o
+ .debug_aranges
+                0x0000000000000100       0x40 build/debug.o
+ .debug_aranges
+                0x0000000000000140       0x28 build/led_life.o
+ .debug_aranges
+                0x0000000000000168       0x40 build/misc.o
+ .debug_aranges
+                0x00000000000001a8      0x148 build/stm32l1xx_adc.o
+ .debug_aranges
+                0x00000000000002f0       0x48 build/stm32l1xx_aes_util.o
+ .debug_aranges
+                0x0000000000000338       0xa8 build/stm32l1xx_aes.o
+ .debug_aranges
+                0x00000000000003e0       0x50 build/stm32l1xx_comp.o
+ .debug_aranges
+                0x0000000000000430       0x48 build/stm32l1xx_crc.o
+ .debug_aranges
+                0x0000000000000478       0xa0 build/stm32l1xx_dac.o
+ .debug_aranges
+                0x0000000000000518       0x40 build/stm32l1xx_dbgmcu.o
+ .debug_aranges
+                0x0000000000000558       0x70 build/stm32l1xx_dma.o
+ .debug_aranges
+                0x00000000000005c8       0x58 build/stm32l1xx_exti.o
+ .debug_aranges
+                0x0000000000000620       0x58 build/stm32l1xx_flash_ramfunc.o
+ .debug_aranges
+                0x0000000000000678      0x190 build/stm32l1xx_flash.o
+ .debug_aranges
+                0x0000000000000808       0x38 build/stm32l1xx_fsmc.o
+ .debug_aranges
+                0x0000000000000840       0x88 build/stm32l1xx_gpio.o
+ .debug_aranges
+                0x00000000000008c8      0x120 build/stm32l1xx_i2c.o
+ .debug_aranges
+                0x00000000000009e8       0x48 build/stm32l1xx_iwdg.o
+ .debug_aranges
+                0x0000000000000a30       0xa8 build/stm32l1xx_lcd.o
+ .debug_aranges
+                0x0000000000000ad8       0x60 build/stm32l1xx_opamp.o
+ .debug_aranges
+                0x0000000000000b38       0x88 build/stm32l1xx_pwr.o
+ .debug_aranges
+                0x0000000000000bc0      0x148 build/stm32l1xx_rcc.o
+ .debug_aranges
+                0x0000000000000d08      0x1d0 build/stm32l1xx_rtc.o
+ .debug_aranges
+                0x0000000000000ed8      0x108 build/stm32l1xx_sdio.o
+ .debug_aranges
+                0x0000000000000fe0       0xd0 build/stm32l1xx_spi.o
+ .debug_aranges
+                0x00000000000010b0       0x80 build/stm32l1xx_syscfg.o
+ .debug_aranges
+                0x0000000000001130      0x2b8 build/stm32l1xx_tim.o
+ .debug_aranges
+                0x00000000000013e8      0x100 build/stm32l1xx_usart.o
+ .debug_aranges
+                0x00000000000014e8       0x58 build/stm32l1xx_wwdg.o
+ .debug_aranges
+                0x0000000000001540       0x68 build/stm32l1xx_it.o
+ .debug_aranges
+                0x00000000000015a8       0x20 build/main.o
+ .debug_aranges
+                0x00000000000015c8       0x60 build/modbus_slave.o
+ .debug_aranges
+                0x0000000000001628       0x20 build/modbus_crc.o
+ .debug_aranges
+                0x0000000000001648       0x28 build/startup_STM32L151MD.o
+
+.debug_ranges   0x0000000000000000     0x1410
+ .debug_ranges  0x0000000000000000       0x20 build/system_stm32l1xx.o
+ .debug_ranges  0x0000000000000020       0x20 build/eeprom.o
+ .debug_ranges  0x0000000000000040       0x20 build/rs485.o
+ .debug_ranges  0x0000000000000060       0x60 build/xprintf.o
+ .debug_ranges  0x00000000000000c0       0x30 build/debug.o
+ .debug_ranges  0x00000000000000f0       0x18 build/led_life.o
+ .debug_ranges  0x0000000000000108       0x30 build/misc.o
+ .debug_ranges  0x0000000000000138      0x138 build/stm32l1xx_adc.o
+ .debug_ranges  0x0000000000000270       0x38 build/stm32l1xx_aes_util.o
+ .debug_ranges  0x00000000000002a8       0x98 build/stm32l1xx_aes.o
+ .debug_ranges  0x0000000000000340       0x40 build/stm32l1xx_comp.o
+ .debug_ranges  0x0000000000000380       0x38 build/stm32l1xx_crc.o
+ .debug_ranges  0x00000000000003b8       0x90 build/stm32l1xx_dac.o
+ .debug_ranges  0x0000000000000448       0x30 build/stm32l1xx_dbgmcu.o
+ .debug_ranges  0x0000000000000478       0x60 build/stm32l1xx_dma.o
+ .debug_ranges  0x00000000000004d8       0x48 build/stm32l1xx_exti.o
+ .debug_ranges  0x0000000000000520       0x48 build/stm32l1xx_flash_ramfunc.o
+ .debug_ranges  0x0000000000000568      0x180 build/stm32l1xx_flash.o
+ .debug_ranges  0x00000000000006e8       0x28 build/stm32l1xx_fsmc.o
+ .debug_ranges  0x0000000000000710       0x78 build/stm32l1xx_gpio.o
+ .debug_ranges  0x0000000000000788      0x110 build/stm32l1xx_i2c.o
+ .debug_ranges  0x0000000000000898       0x38 build/stm32l1xx_iwdg.o
+ .debug_ranges  0x00000000000008d0       0x98 build/stm32l1xx_lcd.o
+ .debug_ranges  0x0000000000000968       0x50 build/stm32l1xx_opamp.o
+ .debug_ranges  0x00000000000009b8       0x78 build/stm32l1xx_pwr.o
+ .debug_ranges  0x0000000000000a30      0x138 build/stm32l1xx_rcc.o
+ .debug_ranges  0x0000000000000b68      0x1c0 build/stm32l1xx_rtc.o
+ .debug_ranges  0x0000000000000d28       0xf8 build/stm32l1xx_sdio.o
+ .debug_ranges  0x0000000000000e20       0xc0 build/stm32l1xx_spi.o
+ .debug_ranges  0x0000000000000ee0       0x70 build/stm32l1xx_syscfg.o
+ .debug_ranges  0x0000000000000f50      0x2a8 build/stm32l1xx_tim.o
+ .debug_ranges  0x00000000000011f8       0xf0 build/stm32l1xx_usart.o
+ .debug_ranges  0x00000000000012e8       0x48 build/stm32l1xx_wwdg.o
+ .debug_ranges  0x0000000000001330       0x58 build/stm32l1xx_it.o
+ .debug_ranges  0x0000000000001388       0x10 build/main.o
+ .debug_ranges  0x0000000000001398       0x50 build/modbus_slave.o
+ .debug_ranges  0x00000000000013e8       0x10 build/modbus_crc.o
+ .debug_ranges  0x00000000000013f8       0x18 build/startup_STM32L151MD.o
+
+.debug_line     0x0000000000000000     0xacaa
+ .debug_line    0x0000000000000000      0x2fb build/system_stm32l1xx.o
+ .debug_line    0x00000000000002fb      0x1d1 build/eeprom.o
+ .debug_line    0x00000000000004cc      0x2aa build/rs485.o
+ .debug_line    0x0000000000000776      0x673 build/xprintf.o
+ .debug_line    0x0000000000000de9      0x2ca build/debug.o
+ .debug_line    0x00000000000010b3      0x15e build/led_life.o
+ .debug_line    0x0000000000001211      0x260 build/misc.o
+ .debug_line    0x0000000000001471      0x8d3 build/stm32l1xx_adc.o
+ .debug_line    0x0000000000001d44      0xa74 build/stm32l1xx_aes_util.o
+ .debug_line    0x00000000000027b8      0x409 build/stm32l1xx_aes.o
+ .debug_line    0x0000000000002bc1      0x24d build/stm32l1xx_comp.o
+ .debug_line    0x0000000000002e0e      0x1d1 build/stm32l1xx_crc.o
+ .debug_line    0x0000000000002fdf      0x42a build/stm32l1xx_dac.o
+ .debug_line    0x0000000000003409      0x1b0 build/stm32l1xx_dbgmcu.o
+ .debug_line    0x00000000000035b9      0x3d0 build/stm32l1xx_dma.o
+ .debug_line    0x0000000000003989      0x2cf build/stm32l1xx_exti.o
+ .debug_line    0x0000000000003c58      0x332 build/stm32l1xx_flash_ramfunc.o
+ .debug_line    0x0000000000003f8a      0xc98 build/stm32l1xx_flash.o
+ .debug_line    0x0000000000004c22      0x35e build/stm32l1xx_fsmc.o
+ .debug_line    0x0000000000004f80      0x432 build/stm32l1xx_gpio.o
+ .debug_line    0x00000000000053b2      0x699 build/stm32l1xx_i2c.o
+ .debug_line    0x0000000000005a4b      0x1b3 build/stm32l1xx_iwdg.o
+ .debug_line    0x0000000000005bfe      0x3ab build/stm32l1xx_lcd.o
+ .debug_line    0x0000000000005fa9      0x318 build/stm32l1xx_opamp.o
+ .debug_line    0x00000000000062c1      0x367 build/stm32l1xx_pwr.o
+ .debug_line    0x0000000000006628      0x78d build/stm32l1xx_rcc.o
+ .debug_line    0x0000000000006db5      0xfd7 build/stm32l1xx_rtc.o
+ .debug_line    0x0000000000007d8c      0x557 build/stm32l1xx_sdio.o
+ .debug_line    0x00000000000082e3      0x56f build/stm32l1xx_spi.o
+ .debug_line    0x0000000000008852      0x46e build/stm32l1xx_syscfg.o
+ .debug_line    0x0000000000008cc0      0xdf3 build/stm32l1xx_tim.o
+ .debug_line    0x0000000000009ab3      0x669 build/stm32l1xx_usart.o
+ .debug_line    0x000000000000a11c      0x209 build/stm32l1xx_wwdg.o
+ .debug_line    0x000000000000a325      0x1aa build/stm32l1xx_it.o
+ .debug_line    0x000000000000a4cf      0x13d build/main.o
+ .debug_line    0x000000000000a60c      0x4a4 build/modbus_slave.o
+ .debug_line    0x000000000000aab0       0xec build/modbus_crc.o
+ .debug_line    0x000000000000ab9c      0x10e build/startup_STM32L151MD.o
+
+.debug_str      0x0000000000000000     0x5dcd
+ .debug_str     0x0000000000000000      0x2ff build/system_stm32l1xx.o
+                                        0x355 (size before relaxing)
+ .debug_str     0x00000000000002ff       0xab build/eeprom.o
+                                        0x20d (size before relaxing)
+ .debug_str     0x00000000000003aa      0x679 build/rs485.o
+                                        0x7f0 (size before relaxing)
+ .debug_str     0x0000000000000a23       0xba build/xprintf.o
+                                        0x205 (size before relaxing)
+ .debug_str     0x0000000000000add       0xcc build/debug.o
+                                        0x880 (size before relaxing)
+ .debug_str     0x0000000000000ba9       0x39 build/led_life.o
+                                        0x34e (size before relaxing)
+ .debug_str     0x0000000000000be2      0x103 build/misc.o
+                                        0x3bd (size before relaxing)
+ .debug_str     0x0000000000000ce5      0x620 build/stm32l1xx_adc.o
+                                        0x7d9 (size before relaxing)
+ .debug_str     0x0000000000001305      0x1df build/stm32l1xx_aes_util.o
+                                        0x35f (size before relaxing)
+ .debug_str     0x00000000000014e4      0x1e5 build/stm32l1xx_aes.o
+                                        0x437 (size before relaxing)
+ .debug_str     0x00000000000016c9      0x11b build/stm32l1xx_comp.o
+                                        0x29f (size before relaxing)
+ .debug_str     0x00000000000017e4       0xb8 build/stm32l1xx_crc.o
+                                        0x22f (size before relaxing)
+ .debug_str     0x000000000000189c      0x26c build/stm32l1xx_dac.o
+                                        0x437 (size before relaxing)
+ .debug_str     0x0000000000001b08       0xca build/stm32l1xx_dbgmcu.o
+                                        0x239 (size before relaxing)
+ .debug_str     0x0000000000001bd2      0x212 build/stm32l1xx_dma.o
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x0000000000001de4      0x1bb build/stm32l1xx_exti.o
+                                        0x345 (size before relaxing)
+ .debug_str     0x0000000000001f9f      0x14c build/stm32l1xx_flash_ramfunc.o
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x00000000000020eb      0x54c build/stm32l1xx_flash.o
+                                        0x7c5 (size before relaxing)
+ .debug_str     0x0000000000002637      0x2ae build/stm32l1xx_fsmc.o
+                                        0x41d (size before relaxing)
+ .debug_str     0x00000000000028e5      0x186 build/stm32l1xx_gpio.o
+                                        0x4ac (size before relaxing)
+ .debug_str     0x0000000000002a6b      0x41d build/stm32l1xx_i2c.o
+                                        0x649 (size before relaxing)
+ .debug_str     0x0000000000002e88       0xd6 build/stm32l1xx_iwdg.o
+                                        0x250 (size before relaxing)
+ .debug_str     0x0000000000002f5e      0x25c build/stm32l1xx_lcd.o
+                                        0x401 (size before relaxing)
+ .debug_str     0x00000000000031ba      0x166 build/stm32l1xx_opamp.o
+                                        0x2f7 (size before relaxing)
+ .debug_str     0x0000000000003320      0x1a9 build/stm32l1xx_pwr.o
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x00000000000034c9      0x402 build/stm32l1xx_rcc.o
+                                        0x6f3 (size before relaxing)
+ .debug_str     0x00000000000038cb      0x939 build/stm32l1xx_rtc.o
+                                        0xb3b (size before relaxing)
+ .debug_str     0x0000000000004204      0x474 build/stm32l1xx_sdio.o
+                                        0x62f (size before relaxing)
+ .debug_str     0x0000000000004678      0x35f build/stm32l1xx_spi.o
+                                        0x5e0 (size before relaxing)
+ .debug_str     0x00000000000049d7      0x2b4 build/stm32l1xx_syscfg.o
+                                        0x452 (size before relaxing)
+ .debug_str     0x0000000000004c8b      0x9e5 build/stm32l1xx_tim.o
+                                        0xc33 (size before relaxing)
+ .debug_str     0x0000000000005670      0x391 build/stm32l1xx_usart.o
+                                        0x673 (size before relaxing)
+ .debug_str     0x0000000000005a01       0xd2 build/stm32l1xx_wwdg.o
+                                        0x266 (size before relaxing)
+ .debug_str     0x0000000000005ad3       0xba build/stm32l1xx_it.o
+                                        0x23a (size before relaxing)
+ .debug_str     0x0000000000005b8d       0x37 build/main.o
+                                        0x1da (size before relaxing)
+ .debug_str     0x0000000000005bc4      0x136 build/modbus_slave.o
+                                        0x35f (size before relaxing)
+ .debug_str     0x0000000000005cfa       0x53 build/modbus_crc.o
+                                        0x1b0 (size before relaxing)
+ .debug_str     0x0000000000005d4d       0x80 build/startup_STM32L151MD.o
+                                        0x1d1 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 build/system_stm32l1xx.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a build/eeprom.o
+ .comment       0x0000000000000049       0x4a build/rs485.o
+ .comment       0x0000000000000049       0x4a build/xprintf.o
+ .comment       0x0000000000000049       0x4a build/debug.o
+ .comment       0x0000000000000049       0x4a build/led_life.o
+ .comment       0x0000000000000049       0x4a build/misc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_adc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_aes_util.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_aes.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_comp.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_crc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_dac.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_dbgmcu.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_dma.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_exti.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_flash_ramfunc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_flash.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_fsmc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_gpio.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_i2c.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_iwdg.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_lcd.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_opamp.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_pwr.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_rcc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_rtc.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_sdio.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_spi.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_syscfg.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_tim.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_usart.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_wwdg.o
+ .comment       0x0000000000000049       0x4a build/stm32l1xx_it.o
+ .comment       0x0000000000000049       0x4a build/main.o
+ .comment       0x0000000000000049       0x4a build/modbus_slave.o
+ .comment       0x0000000000000049       0x4a build/modbus_crc.o
+ .comment       0x0000000000000049       0x4a build/startup_STM32L151MD.o

@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "d:/GocHocTap/Project/MyLearnAK_KIT/Core/src",
-      "program": "d:/GocHocTap/Project/MyLearnAK_KIT/Core/src/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/vietdung/workspace/Project/MyLearnAK_KIT/Core/src",
+      "program": "/home/vietdung/workspace/Project/MyLearnAK_KIT/Core/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -6,7 +6,7 @@
 WINDOW  = 0
 LINUX   = 1
 #Select development environment
-SYSTEM 	= WINDOW
+SYSTEM 	= LINUX
 
 ############################################################################
 # Verbosity								   
@@ -74,13 +74,10 @@ CFLAGS += -g
 # Flags - Preprocessor options
 CFLAGS += -DSTM32L1XX_MD
 CFLAGS += -DUSE_STDPERIPH_DRIVER
-CFLAGS += -DDEBUG
+# CFLAGS += -DDEBUG
 
 # Flags - Assembler Options
 CFLAGS += -Wa,--defsym,CALL_ARM_SYSTEM_INIT=1
-
-# Flags - Linker Options
-CFLAGS += -TStm32l151_md.ld
 
 # Flags - Machine-dependant options
 CFLAGS += -mthumb
@@ -88,6 +85,11 @@ CFLAGS += -march=armv7-m
 CFLAGS += -mfloat-abi=soft
 
 MAPPED_DEVICE = STM32L151MD
+
+# Flags - Linker Options
+LDLAGS += --entry Reset_Handler
+LDLAGS += -TStm32l151_md.ld
+LDLAGS += -Wl,-Map=$(BUILD_DIR)/$(MAPPED_DEVICE).map
 
 # Output files
 ELF_FILE_NAME ?= stm32_executable.elf
@@ -129,12 +131,12 @@ $(BIN_FILE_PATH): $(ELF_FILE_PATH)
 	$(Q)$(OBJCOPY) -O binary $^ $@
 	
 $(ELF_FILE_PATH): $(OBJECTS) $(OBJ_FILE_PATH)
-	$(Q)$(CC) $(CFLAGS) $(CXXFLAGS) $^ -o $@
+	$(Q)$(CC) $(CFLAGS) $(LDLAGS) -o $@ $^
 	$(Q)$(SIZE) $@
 
 $(OBJ_FILE_PATH): $(DEVICE_STARTUP)
 	$(ECHO) "CC      $<"
-	$(Q)$(CC) -c $(CFLAGS) $(CXXFLAGS) $^ -o $@
+	$(Q)$(CC) -c $(CFLAGS) $^ -o $@
 
 $(BUILD_DIR):
 	$(ECHO) "	##############################################################"
